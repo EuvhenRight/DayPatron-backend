@@ -1,8 +1,8 @@
-import mongoose from "mongoose";
-import dayPatron from "./models/DayPatronData.js";
-import fs from "fs";
+import mongoose from 'mongoose';
+import dayPatron from './models/DayPatronData.js';
+import fs from 'fs';
 
-const url = 'mongodb+srv://UhnivenkoEA:azsxdc12345@cluster0.uwwhu0y.mongodb.net/' // Use the environment variable for the MongoDB connection URL
+const url = process.env.MONGODB_URL; // Use the environment variable for the MongoDB connection URL
 
 if (!url) {
   throw Error(
@@ -17,18 +17,15 @@ const connectDB = async () => {
       useNewUrlParser: true,
       useUnifiedTopology: true,
     });
-    console.log("Connected to MongoDB");
+    console.log('Connected to MongoDB');
     await dayPatron.collection.drop();
-      console.log("Data deleted");
-      const data = JSON.parse(fs.readFileSync("data.json", "utf-8"));
-      await dayPatron.insertMany(data);
-      console.log("Data imported");
+    console.log('Data deleted');
+    const data = JSON.parse(fs.readFileSync('data.json', 'utf-8'));
+    await dayPatron.insertMany(data);
+    console.log('Data imported');
   } catch (err) {
-    console.error("Error connecting to MongoDB:", err.message);
+    console.error('Error connecting to MongoDB:', err.message);
   }
-}
-
-    
-  
+};
 
 export default connectDB;
