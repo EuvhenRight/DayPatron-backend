@@ -11,3 +11,4 @@ $RECYCLE.BIN/
 dev/
 cms/core/config/
 node_modules/
+.env
