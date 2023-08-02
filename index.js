@@ -1,8 +1,8 @@
-import express from "express";
-import cors from "cors";
+import express from 'express';
+import cors from 'cors';
 // import fs from "fs";
-import connectDB from "./connect.js";
-import dayPatron from "./models/DayPatronData.js";
+import connectDB from './connect.js';
+import dayPatron from './models/DayPatronData.js';
 
 const app = express();
 const port = process.env.PORT || 3333;
@@ -15,16 +15,16 @@ app.use(express.json());
 
 connectDB();
 
-app.get("/products", async (req, res) => {
+app.get('/products', async (req, res) => {
   try {
     const allProducts = await dayPatron.find();
     res.json(allProducts);
   } catch (err) {
-    res.status(500).json({ error: "Internal server error" });
+    res.status(500).json({ error: 'Internal server error' });
   }
 });
 
-app.get("/products/:id", async (req, res) => {
+app.get('/products/:id', async (req, res) => {
   try {
     const productId = req.params.id;
     // Find the product with the specified "id"
