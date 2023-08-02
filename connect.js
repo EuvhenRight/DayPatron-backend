@@ -1,6 +1,7 @@
 import mongoose from 'mongoose';
 import dayPatron from './models/DayPatronData.js';
 import fs from 'fs';
+import 'dotenv/config';
 
 const url = process.env.MONGODB_URL; // Use the environment variable for the MongoDB connection URL
 
