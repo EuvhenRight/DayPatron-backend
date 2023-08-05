@@ -15,31 +15,53 @@ app.use(express.json());
 
 connectDB();
 
-app.get('/products', async (req, res) => {
+app.get('/products/:lang', async (req, res) => {
   try {
-    const allProducts = await dayPatron.find();
-    res.json(allProducts);
+    const lang = req.params.lang; // Use req.params.lang to get the language from the URL
+
+    const products = await dayPatron.find({}, '-_id -__v').lean();
+
+    const productsInSelectedLanguage = products.map((product) => {
+      const selectedLanguageProduct = {
+        ...product,
+        name: product.name[lang],
+        description: product.description[lang],
+        useTo: product.useTo[lang],
+        composition: product.composition[lang],
+        shelfLife: product.shelfLife[lang],
+        volume: product.volume[lang],
+      };
+      return selectedLanguageProduct;
+    });
+    res.json(productsInSelectedLanguage);
   } catch (err) {
     res.status(500).json({ error: 'Internal server error' });
   }
 });
 
-app.get('/products/:id', async (req, res) => {
+app.get('/products/:lang/:id', async (req, res) => {
   try {
     const productId = req.params.id;
-    // Find the product with the specified "id"
-    const product = await dayPatron.findOne({ id: productId });
+    const lang = req.params.lang;
+
+    // Find the product with the specified "id" and matching "lang"
+    const product = await dayPatron.findOne({ id: productId }).lean();
 
     if (product) {
-      // Product found, send it as the response
-      res.json(product);
-    } else {
-      // Product not found, send an error response
-      res.status(404).json({ error: 'Product not found' });
+      // Extract the language-specific information based on the "lang" parameter
+      const productInSelectedLanguage = {
+        ...product,
+        name: product.name[lang],
+        description: product.description[lang],
+        useTo: product.useTo[lang],
+        composition: product.composition[lang],
+        shelfLife: product.shelfLife[lang],
+        volume: product.volume[lang],
+      };
+      res.json(productInSelectedLanguage);
     }
   } catch (error) {
     console.error('Error finding product:', error);
-    // If an error occurs, send an error response
     res.status(500).json({ error: 'Internal server error' });
   }
 });

@@ -3,9 +3,7 @@ import dayPatron from './models/DayPatronData.js';
 import fs from 'fs';
 import 'dotenv/config';
 
-const url =
-  process.env.MONGODB_URL ||
-  'mongodb://UhnivenkoEA:azsxdc12345@cluster0.uwwhu0y.mongodb.net'; // Use the environment variable for the MongoDB connection URL
+const url = process.env.MONGODB_URL;
 if (!url) {
   throw Error(
     `You did not set up the environment variable 'MONGODB_URL' correctly. Make sure 

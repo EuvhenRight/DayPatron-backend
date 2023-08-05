@@ -11,14 +11,32 @@ const ImageSchema = new Schema({
 const dayPatronData = new Schema({
   id: Number,
   article: Number,
-  name: String,
-  description: String,
-  useTo: String,
+  name: {
+    en: String,
+    ua: String,
+  },
+  description: {
+    en: String,
+    ua: String,
+  },
+  useTo: {
+    en: String,
+    ua: String,
+  },
   image: [ImageSchema],
-  volume: [String],
+  volume: {
+    en: [String],
+    ua: [String],
+  },
   benefits: [String],
-  composition: String,
-  shelfLife: String,
+  composition: {
+    en: String,
+    ua: String,
+  },
+  shelfLife: {
+    en: String,
+    ua: String,
+  },
   category: String,
   tradeMarkImage: String,
 });
