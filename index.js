@@ -27,7 +27,7 @@ app.get('/products/:lang', async (req, res) => {
         name: product.name[lang],
         description: product.description[lang],
         useTo: product.useTo[lang],
-        composition: product.composition[lang],
+        composition: product.ingredients[lang],
         shelfLife: product.shelfLife[lang],
         volume: product.volume[lang],
       };
@@ -54,7 +54,7 @@ app.get('/products/:lang/:id', async (req, res) => {
         name: product.name[lang],
         description: product.description[lang],
         useTo: product.useTo[lang],
-        composition: product.composition[lang],
+        composition: product.ingredients[lang],
         shelfLife: product.shelfLife[lang],
         volume: product.volume[lang],
       };

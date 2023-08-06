@@ -29,7 +29,7 @@ const dayPatronData = new Schema({
     ua: [String],
   },
   benefits: [String],
-  composition: {
+  ingredients: {
     en: String,
     ua: String,
   },
