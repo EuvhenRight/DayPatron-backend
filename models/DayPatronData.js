@@ -15,6 +15,12 @@ const dayPatronData = new Schema({
     en: String,
     ua: String,
   },
+  specification: [
+    {
+      en: String,
+      ua: String,
+    },
+  ],
   description: {
     en: String,
     ua: String,

@@ -25,6 +25,7 @@ app.get('/products/:lang', async (req, res) => {
       const selectedLanguageProduct = {
         ...product,
         name: product.name[lang],
+        specification: product.specification.map((spec) => spec[lang]),
         description: product.description[lang],
         useTo: product.useTo[lang],
         composition: product.ingredients[lang],
@@ -52,6 +53,7 @@ app.get('/products/:lang/:id', async (req, res) => {
       const productInSelectedLanguage = {
         ...product,
         name: product.name[lang],
+        specification: product.specification.map((spec) => spec[lang]),
         description: product.description[lang],
         useTo: product.useTo[lang],
         composition: product.ingredients[lang],
