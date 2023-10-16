@@ -31,6 +31,7 @@ app.get('/products/:lang', async (req, res) => {
         composition: product.ingredients[lang],
         shelfLife: product.shelfLife[lang],
         volume: product.volume[lang],
+        faq: product.faq[lang],
       };
       return selectedLanguageProduct;
     });
@@ -59,6 +60,7 @@ app.get('/products/:lang/:id', async (req, res) => {
         composition: product.ingredients[lang],
         shelfLife: product.shelfLife[lang],
         volume: product.volume[lang],
+        faq: product.faq[lang],
       };
       res.json(productInSelectedLanguage);
     }

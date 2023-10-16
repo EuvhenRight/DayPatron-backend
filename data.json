@@ -40,6 +40,10 @@
       "en": "5 years",
       "ua": "5 років"
     },
+    "faq": {
+      "en": "How to use?",
+      "ua": "Як використовувати?"
+    },
     "category": "CLP",
     "tradeMarkImage": "clp_tr.svg"
   },
@@ -50,6 +54,14 @@
       "en": "Neutral synthetic oil",
       "ua": "Нейтральне синтетичне масло"
     },
+    "specification": [
+      { "en": "Rust protection", "ua": "Захист від ржавчини" },
+      {
+        "en": "Neutral acid-alkaline environment",
+        "ua": "Нейтральне кислотно-лужне середовище"
+      },
+      { "en": "Lubrication", "ua": "Змащення" }
+    ],
     "description": {
       "en": "It has a neutral acid-alkaline environment. Due to its excellent penetration properties, it cleans and neutralizes residues of combustion after firing, protects against corrosion and atmospheric influences, provides necessary sliding on all moving and non-moving metal surfaces, of all types of rifled and smoothbore firearms of small and large calibers. Ensures efficient operation of mechanisms at extreme temperatures ranging from -40°C to +200°C",
       "ua": "Mає нейтральне кислотно-лужне середовище. За рахунок відмінних властивостей проникнення, очищує та нейтралізує залишки продуктів горіння після пострілу, захищає від корозії та атмосферного впливу, забезпечує необхідне ковзання на всіх рухомих і не рухомих металевих поверхнях, всіх видах нарізної та гладкоствольної зброї малого та великого калібру. Забезпечує ефективну роботу механізмів при екстремальних температурах - 40С° до +200С°"
@@ -76,6 +88,10 @@
       "en": "5 years",
       "ua": "5 років"
     },
+    "faq": {
+      "en": "How to use?",
+      "ua": "Як використовувати?"
+    },
     "category": "Oil",
     "tradeMarkImage": "oil_tr.svg"
   },
@@ -86,6 +102,14 @@
       "en": "Rust Protection",
       "ua": "Захист від ржавчини"
     },
+    "specification": [
+      { "en": "Rust protection", "ua": "Захист від ржавчини" },
+      {
+        "en": "Neutral acid-alkaline environment",
+        "ua": "Нейтральне кислотно-лужне середовище"
+      },
+      { "en": "Lubrication", "ua": "Змащення" }
+    ],
     "description": {
       "en": "A unique product designed for long-term protection under adverse conditions and for use in humid and salty air environments on metal surfaces of all types of rifled and smoothbore firearms of small and large calibers. Quickly displaces moisture from surfaces, neutralizes acid action, forms a protective layer, and prevents corrosion. Creates a dry wax film. Establishes a neutral acid-alkaline environment. Does not harm plastic and rubber materials. Does not lose its properties at extreme temperatures. Odorless. Outdoor protection for 6-8 months, indoor protection for 12-15 months",
       "ua": "Унікальний засіб, призначений для захисту при тривалому зберіганні в несприятливих умовах, та застосування в умовах вологого та солоного повітря, на металевих поверхнях всіх видах нарізної та гладкоствольної зброї малого та великого калібру. Швидко витісняє вологу з поверхонь, нейтралізує дію кислот, покриває захисним шаром, запобігає появі корозії. Створює суху воскову плівку. Утворює нейтральне кислотно-лужне середовище. Не шкодить пластмасовим та гумовим матеріалам. Не втрачає своїх властивостей при екстремальних температурах. Без запаху. Захист на вулиці 6-8 міс, в приміщенні 12-15 місяців"
@@ -112,6 +136,10 @@
       "en": "5 years",
       "ua": "5 років"
     },
+    "faq": {
+      "en": "How to use?",
+      "ua": "Як використовувати?"
+    },
     "category": "Oil",
     "tradeMarkImage": "protect_tr.svg"
   },
@@ -122,6 +150,14 @@
       "en": "Carbon Killer",
       "ua": "Знищувач нагару"
     },
+    "specification": [
+      { "en": "Rust protection", "ua": "Захист від ржавчини" },
+      {
+        "en": "Neutral acid-alkaline environment",
+        "ua": "Нейтральне кислотно-лужне середовище"
+      },
+      { "en": "Lubrication", "ua": "Змащення" }
+    ],
     "description": {
       "en": "This is a new standard of high-performance cleaners that instantly remove carbon deposits, plastic and paper residues, oils and lubricants in barrels, bolts, gas pistons, interchangeable chokes, etc., in all types of rifled and smoothbore firearms of small and large calibers. Safe for use in stainless steel and other types of barrels. Effectively neutralizes all corrosive residues, providing short-term corrosion prevention. Perfectly suited for any areas with heavy carbon contamination. Removes mechanical delays, extractors, safeties, gas pistons, etc. It is odorless, non-flammable, non-toxic, and biodegradable",
       "ua": "Це новий стандарт високопродуктивних очищувачів, які миттєво усувають залишки карбонових відкладень, пластику та томпаку, мастила та змазки в стволі, затворах, газових поршнях, змінних насадках і т.д., у всіх видах нарізної та гладкоствольної зброї малого та великого калібру. Безпечний для використання в стволах з нержавіючої сталі та інших типів. Ефективно нейтралізує всі корозійні залишки, короткостроково запобігаючи появі корозії. Ідеально підходить для будь-яких місць, де є сильні карбонові забруднення. Усуває затримки механізмів, екстракторів, запобіжників, газових поршнів і т.д. Не має запаху, не горить, нетоксичний та біорозкладний"
@@ -148,6 +184,10 @@
       "en": "5 years",
       "ua": "5 років"
     },
+    "faq": {
+      "en": "How to use?",
+      "ua": "Як використовувати?"
+    },
     "category": "Cleaner",
     "tradeMarkImage": "cleaner_tr.svg"
   },
@@ -158,6 +198,14 @@
       "en": "Copper Killer",
       "ua": "Знищувач міді"
     },
+    "specification": [
+      { "en": "Rust protection", "ua": "Захист від ржавчини" },
+      {
+        "en": "Neutral acid-alkaline environment",
+        "ua": "Нейтральне кислотно-лужне середовище"
+      },
+      { "en": "Lubrication", "ua": "Змащення" }
+    ],
     "description": {
       "en": "Instantly reacts and removes copper and its compounds deposits after firing, in all types of firearms, small and large calibers. Effectively neutralizes any corrosive residues, providing short-term prevention of rust and corrosion. Safe for use in stainless steel and other types of barrels. Does not react with the metals from which the firearm is made. A unique formula that is non-flammable, ammonia-free, odorless, non-toxic, and biodegradable",
       "ua": "Mиттєво вступає в реакцію і видаляє відкладення міді та її сполуки після пострілу, у всіх типах зброї, малого та великого калібру. Ефективно нейтралізує будь-які корозійні залишки, короткостроково запобігаючи появі іржі та корозії. Безпечний для використання в стволах з нержавіючої сталі та інших типів. Не вступає в реакцію з металами з яких виготовлена зброя. Унікальна формула, яка не горить, без аміаку та запаху, нетоксична та біорозкладна"
@@ -184,6 +232,10 @@
       "en": "5 years",
       "ua": "5 років"
     },
+    "faq": {
+      "en": "How to use?",
+      "ua": "Як використовувати?"
+    },
     "category": "Cleaner",
     "tradeMarkImage": "cleaner_tr.svg"
   },
@@ -194,6 +246,14 @@
       "en": "Liquidator",
       "ua": "Очисник ствола"
     },
+    "specification": [
+      { "en": "Rust protection", "ua": "Захист від ржавчини" },
+      {
+        "en": "Neutral acid-alkaline environment",
+        "ua": "Нейтральне кислотно-лужне середовище"
+      },
+      { "en": "Lubrication", "ua": "Змащення" }
+    ],
     "description": {
       "en": "A powerful, high-performance solution that instantly reacts and removes all types of residues and deposits after firing: carbon, powder, copper, lead, and other residues, in all types of rifled and smoothbore firearms of small and large calibers. Effectively neutralizes all corrosive residues, providing short-term corrosion prevention. Safe for use in stainless steel and other types of barrels. Does not react with the metals from which the firearm is made. A unique formula that is non-flammable, ammonia-free, odorless, non-toxic, and biodegradable",
       "ua": "Потужний, високопродуктивний засіб, миттєво вступає в реакцію і видаляє всі види забруднень та відкладень після пострілу: вуглецеві, порохові, мідні, свинцеві та інші залишки, у всіх видах нарізної та гладкоствольної зброї малого та великого калібру. Ефективно нейтралізує всі корозійні залишки, короткостроково запобігаючи появі корозії. Безпечний для використання в стволах з нержавіючої сталі та інших типів. Не вступає в реакцію з металами з яких виготовлена зброя. Унікальна формула, яка не горить, без аміаку та запаху, нетоксична та біорозкладна"
@@ -219,6 +279,10 @@
     "shelfLife": {
       "en": "5 years",
       "ua": "5 років"
+    },
+    "faq": {
+      "en": "How to use?",
+      "ua": "Як використовувати?"
     },
     "category": "Lquidator",
     "tradeMarkImage": "liquidator_tr.svg"

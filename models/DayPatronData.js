@@ -43,6 +43,10 @@ const dayPatronData = new Schema({
     en: String,
     ua: String,
   },
+  faq: {
+    en: String,
+    ua: String,
+  },
   category: String,
   tradeMarkImage: String,
 });
