@@ -26,7 +26,7 @@ const dayPatronData = new Schema({
     en: String,
     ua: String,
   },
-  specification: { SpecificationSchema },
+  specification: SpecificationSchema,
   description: {
     en: String,
     ua: String,
