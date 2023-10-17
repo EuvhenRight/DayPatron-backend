@@ -8,6 +8,17 @@ const ImageSchema = new Schema({
   url: String,
 });
 
+const SpecificationSchema = new Schema({
+  en: {
+    text: String, // English specification text description
+    url: String, // English specification image URL
+  },
+  ua: {
+    text: String, // Ukrainian specification text description
+    url: String, // Ukrainian specification image URL
+  },
+});
+
 const dayPatronData = new Schema({
   id: Number,
   article: Number,
@@ -15,12 +26,7 @@ const dayPatronData = new Schema({
     en: String,
     ua: String,
   },
-  specification: [
-    {
-      en: String,
-      ua: String,
-    },
-  ],
+  specification: [SpecificationSchema],
   description: {
     en: String,
     ua: String,

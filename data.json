@@ -7,12 +7,16 @@
       "ua": "Універсальне мастило CLP 3 в 1"
     },
     "specification": [
-      { "en": "Rust protection", "ua": "Захист від ржавчини" },
       {
-        "en": "Neutral acid-alkaline environment",
-        "ua": "Нейтральне кислотно-лужне середовище"
-      },
-      { "en": "Lubrication", "ua": "Змащення" }
+        "en": {
+          "text": "Rust protection, neutral acid-alkaline environment, lubrication",
+          "url": "CLP-100ml.png"
+        },
+        "ua": {
+          "text": "Захист від ржавчини, Нейтральне кислотно-лужне середовище, змащування",
+          "url": "CLP-100ml.png"
+        }
+      }
     ],
     "description": {
       "en": "For use in field conditions, thanks to its high penetrating properties, it quickly and safely cleans, lubricates, and protects all external and internal metal surfaces. Designed for all types of rifled and smoothbore firearms of small and large caliber. Protects metal surfaces from climatic and mechanical influences, provides lubricating effect for friction protection, maintaining the firearm's operational condition. Does not lose its properties at extreme temperatures from -40°C to +200°C. Neutralizes acidic residues from powder, removes resinous deposits, light deposits of lead, copper, and tombac, displaces moisture. Clean: safely cleans external and internal metal surfaces, neutralizes residues after firing. Lubricant: lubricates external and internal firearm parts, reduces friction of moving mechanisms. Protect: protects metal from corrosion, displaces moisture, creates a protective film. Neutral pH level",
