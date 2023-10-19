@@ -36,6 +36,7 @@ const dayPatronData = new Schema({
     ua: String,
   },
   image: [ImageSchema],
+  imageParts: [ImageSchema],
   volume: {
     en: [String],
     ua: [String],
