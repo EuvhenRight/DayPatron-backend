@@ -44,8 +44,26 @@
       "ua": "5 років. Дата виготовлення зазначена на етикетці."
     },
     "faq": {
-      "en": "How to use?",
-      "ua": "Як використовувати?"
+      "question_1": {
+        "en": {
+          "Q": "Can I use Neutral synthetic oil for long term storage?",
+          "A": "No, Neutral Synthetic Oil is designed for use inside of the bore on moving part to reduce friction and wear. For long term storage, use DayPatron Rust Protection to protect against rust and corrosion for extended periods."
+        },
+        "ua": {
+          "Q": "чи можу я використовувати нейтральну синтетичну оливу для тривалого зберігання?",
+          "A": "Ні, нейтральне синтетичне масло призначене для використання всередині отвору на рухомій частині для зменшення тертя та зносу. Для тривалого зберігання використовуйте DayPatron Rust Protection для захисту від іржі та корозії протягом тривалого часу."
+        }
+      },
+      "question_2": {
+        "en": {
+          "Q": "Can I use Neutral synthetic oil for long term storage?",
+          "A": "No, Neutral Synthetic Oil is designed for use inside of the bore on moving part to reduce friction and wear. For long term storage, use DayPatron Rust Protection to protect against rust and corrosion for extended periods."
+        },
+        "ua": {
+          "Q": "чи можу я використовувати нейтральну синтетичну оливу для тривалого зберігання?",
+          "A": "Ні, нейтральне синтетичне масло призначене для використання всередині отвору на рухомій частині для зменшення тертя та зносу. Для тривалого зберігання використовуйте DayPatron Rust Protection для захисту від іржі та корозії протягом тривалого часу."
+        }
+      }
     },
     "category": "CLP",
     "tradeMarkImage": "clp_tr.svg"
@@ -95,8 +113,26 @@
       "ua": "5 років. Дата виготовлення зазначена на етикетці."
     },
     "faq": {
-      "en": "Q: Can I use Neutral synthetic oil for long term storage ? A: No, Neutral Synthetic Oil is designed for use inside of the bore on moving part to reduce friction and wear. For long term storage, use DayPatron Rust Protection to protect against rust and corrosion for extended periods.",
-      "ua": "Питання: чи можу я використовувати нейтральну синтетичну оливу для тривалого зберігання? Відповідь: Ні, нейтральне синтетичне масло призначене для використання всередині отвору на рухомій частині для зменшення тертя та зносу. Для тривалого зберігання використовуйте DayPatron Rust Protection для захисту від іржі та корозії протягом тривалого часу. "
+      "question_1": {
+        "en": {
+          "Q": "Can I use Neutral synthetic oil for long term storage?",
+          "A": "No, Neutral Synthetic Oil is designed for use inside of the bore on moving part to reduce friction and wear. For long term storage, use DayPatron Rust Protection to protect against rust and corrosion for extended periods."
+        },
+        "ua": {
+          "Q": "чи можу я використовувати нейтральну синтетичну оливу для тривалого зберігання?",
+          "A": "Ні, нейтральне синтетичне масло призначене для використання всередині отвору на рухомій частині для зменшення тертя та зносу. Для тривалого зберігання використовуйте DayPatron Rust Protection для захисту від іржі та корозії протягом тривалого часу."
+        }
+      },
+      "question_2": {
+        "en": {
+          "Q": "Can I use Neutral synthetic oil for long term storage?",
+          "A": "No, Neutral Synthetic Oil is designed for use inside of the bore on moving part to reduce friction and wear. For long term storage, use DayPatron Rust Protection to protect against rust and corrosion for extended periods."
+        },
+        "ua": {
+          "Q": "чи можу я використовувати нейтральну синтетичну оливу для тривалого зберігання?",
+          "A": "Ні, нейтральне синтетичне масло призначене для використання всередині отвору на рухомій частині для зменшення тертя та зносу. Для тривалого зберігання використовуйте DayPatron Rust Protection для захисту від іржі та корозії протягом тривалого часу."
+        }
+      }
     },
     "category": "Oil",
     "tradeMarkImage": "oil_tr.svg"
@@ -146,8 +182,26 @@
       "ua": "5 років"
     },
     "faq": {
-      "en": "How to use?",
-      "ua": "Як використовувати?"
+      "question_1": {
+        "en": {
+          "Q": "Can I use Neutral synthetic oil for long term storage?",
+          "A": "No, Neutral Synthetic Oil is designed for use inside of the bore on moving part to reduce friction and wear. For long term storage, use DayPatron Rust Protection to protect against rust and corrosion for extended periods."
+        },
+        "ua": {
+          "Q": "чи можу я використовувати нейтральну синтетичну оливу для тривалого зберігання?",
+          "A": "Ні, нейтральне синтетичне масло призначене для використання всередині отвору на рухомій частині для зменшення тертя та зносу. Для тривалого зберігання використовуйте DayPatron Rust Protection для захисту від іржі та корозії протягом тривалого часу."
+        }
+      },
+      "question_2": {
+        "en": {
+          "Q": "Can I use Neutral synthetic oil for long term storage?",
+          "A": "No, Neutral Synthetic Oil is designed for use inside of the bore on moving part to reduce friction and wear. For long term storage, use DayPatron Rust Protection to protect against rust and corrosion for extended periods."
+        },
+        "ua": {
+          "Q": "чи можу я використовувати нейтральну синтетичну оливу для тривалого зберігання?",
+          "A": "Ні, нейтральне синтетичне масло призначене для використання всередині отвору на рухомій частині для зменшення тертя та зносу. Для тривалого зберігання використовуйте DayPatron Rust Protection для захисту від іржі та корозії протягом тривалого часу."
+        }
+      }
     },
     "category": "Oil",
     "tradeMarkImage": "protect_tr.svg"
@@ -197,8 +251,26 @@
       "ua": "5 років"
     },
     "faq": {
-      "en": "How to use?",
-      "ua": "Як використовувати?"
+      "question_1": {
+        "en": {
+          "Q": "Can I use Neutral synthetic oil for long term storage?",
+          "A": "No, Neutral Synthetic Oil is designed for use inside of the bore on moving part to reduce friction and wear. For long term storage, use DayPatron Rust Protection to protect against rust and corrosion for extended periods."
+        },
+        "ua": {
+          "Q": "чи можу я використовувати нейтральну синтетичну оливу для тривалого зберігання?",
+          "A": "Ні, нейтральне синтетичне масло призначене для використання всередині отвору на рухомій частині для зменшення тертя та зносу. Для тривалого зберігання використовуйте DayPatron Rust Protection для захисту від іржі та корозії протягом тривалого часу."
+        }
+      },
+      "question_2": {
+        "en": {
+          "Q": "Can I use Neutral synthetic oil for long term storage?",
+          "A": "No, Neutral Synthetic Oil is designed for use inside of the bore on moving part to reduce friction and wear. For long term storage, use DayPatron Rust Protection to protect against rust and corrosion for extended periods."
+        },
+        "ua": {
+          "Q": "чи можу я використовувати нейтральну синтетичну оливу для тривалого зберігання?",
+          "A": "Ні, нейтральне синтетичне масло призначене для використання всередині отвору на рухомій частині для зменшення тертя та зносу. Для тривалого зберігання використовуйте DayPatron Rust Protection для захисту від іржі та корозії протягом тривалого часу."
+        }
+      }
     },
     "category": "Cleaner",
     "tradeMarkImage": "cleaner_tr.svg"
@@ -248,8 +320,26 @@
       "ua": "5 років"
     },
     "faq": {
-      "en": "How to use?",
-      "ua": "Як використовувати?"
+      "question_1": {
+        "en": {
+          "Q": "Can I use Neutral synthetic oil for long term storage?",
+          "A": "No, Neutral Synthetic Oil is designed for use inside of the bore on moving part to reduce friction and wear. For long term storage, use DayPatron Rust Protection to protect against rust and corrosion for extended periods."
+        },
+        "ua": {
+          "Q": "чи можу я використовувати нейтральну синтетичну оливу для тривалого зберігання?",
+          "A": "Ні, нейтральне синтетичне масло призначене для використання всередині отвору на рухомій частині для зменшення тертя та зносу. Для тривалого зберігання використовуйте DayPatron Rust Protection для захисту від іржі та корозії протягом тривалого часу."
+        }
+      },
+      "question_2": {
+        "en": {
+          "Q": "Can I use Neutral synthetic oil for long term storage?",
+          "A": "No, Neutral Synthetic Oil is designed for use inside of the bore on moving part to reduce friction and wear. For long term storage, use DayPatron Rust Protection to protect against rust and corrosion for extended periods."
+        },
+        "ua": {
+          "Q": "чи можу я використовувати нейтральну синтетичну оливу для тривалого зберігання?",
+          "A": "Ні, нейтральне синтетичне масло призначене для використання всередині отвору на рухомій частині для зменшення тертя та зносу. Для тривалого зберігання використовуйте DayPatron Rust Protection для захисту від іржі та корозії протягом тривалого часу."
+        }
+      }
     },
     "category": "Cleaner",
     "tradeMarkImage": "cleaner_tr.svg"
@@ -299,8 +389,26 @@
       "ua": "5 років"
     },
     "faq": {
-      "en": "How to use?",
-      "ua": "Як використовувати?"
+      "question_1": {
+        "en": {
+          "Q": "Can I use Neutral synthetic oil for long term storage?",
+          "A": "No, Neutral Synthetic Oil is designed for use inside of the bore on moving part to reduce friction and wear. For long term storage, use DayPatron Rust Protection to protect against rust and corrosion for extended periods."
+        },
+        "ua": {
+          "Q": "чи можу я використовувати нейтральну синтетичну оливу для тривалого зберігання?",
+          "A": "Ні, нейтральне синтетичне масло призначене для використання всередині отвору на рухомій частині для зменшення тертя та зносу. Для тривалого зберігання використовуйте DayPatron Rust Protection для захисту від іржі та корозії протягом тривалого часу."
+        }
+      },
+      "question_2": {
+        "en": {
+          "Q": "Can I use Neutral synthetic oil for long term storage?",
+          "A": "No, Neutral Synthetic Oil is designed for use inside of the bore on moving part to reduce friction and wear. For long term storage, use DayPatron Rust Protection to protect against rust and corrosion for extended periods."
+        },
+        "ua": {
+          "Q": "чи можу я використовувати нейтральну синтетичну оливу для тривалого зберігання?",
+          "A": "Ні, нейтральне синтетичне масло призначене для використання всередині отвору на рухомій частині для зменшення тертя та зносу. Для тривалого зберігання використовуйте DayPatron Rust Protection для захисту від іржі та корозії протягом тривалого часу."
+        }
+      }
     },
     "category": "Lquidator",
     "tradeMarkImage": "liquidator_tr.svg"

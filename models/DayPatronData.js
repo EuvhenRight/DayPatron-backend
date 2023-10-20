@@ -1,6 +1,4 @@
 import mongoose from 'mongoose';
-import fs from 'fs';
-const data = JSON.parse(fs.readFileSync('data.json', 'utf-8'));
 
 const Schema = mongoose.Schema;
 
@@ -16,6 +14,17 @@ const SpecificationSchema = new Schema({
   ua: {
     text: String, // Ukrainian specification text description
     url: String, // Ukrainian specification image URL
+  },
+});
+
+const FaqSchema = new Schema({
+  question_1: {
+    en: { Q: String, A: String },
+    ua: { Q: String, A: String },
+  },
+  question_2: {
+    en: { Q: String, A: String },
+    ua: { Q: String, A: String },
   },
 });
 
@@ -50,10 +59,7 @@ const dayPatronData = new Schema({
     en: String,
     ua: String,
   },
-  faq: {
-    en: String,
-    ua: String,
-  },
+  faq: FaqSchema,
   category: String,
   tradeMarkImage: String,
 });
