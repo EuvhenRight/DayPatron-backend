@@ -27,8 +27,12 @@
     },
     "image": [
       { "url": "CLP-100ml.png" },
+      { "url": "CLP-100ml-side.png" },
+      { "url": "CLP-100ml-back.png" },
       { "url": "CLP-250ml.png" },
-      { "url": "CLP-500ml.jpg" },
+      { "url": "CLP-250ml-back.png" },
+      { "url": "CLP-500ml.png" },
+      { "url": "CLP-500ml-back.png" },
       { "url": "oil-drop.jpg" },
       { "url": "throat.jpg" }
     ],
