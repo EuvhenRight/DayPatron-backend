@@ -2,6 +2,7 @@
   {
     "id": 1,
     "article": 780260,
+    "linkName": "universal-oil-CLP-3-in-1",
     "name": {
       "en": "Universal oil CLP 3 in 1",
       "ua": "Універсальне мастило CLP 3 в 1"
@@ -25,8 +26,8 @@
       "ua": "Розрядіть зброю. Проженіть через ствол 3-4 патчі, змочені мастилом CLP. Зробіть 10-15 проходів йоржиком, змоченим CLP. Проженіть через ствол 3-4 патчі, з CLP, поки вони не виходитимуть чистими. Після проженіть 1-2 сухих патчі. Всі відкриті поверхні очистіть серветкою з CLP. Видаліть мастило з дерев’яних поверхонь. В разі стійких забруднень, проведіть чистку спеціальними очисними засобами з лінійки DayPatron. Для тривалого зберігання або за несприятливих умов застосовуйте консерваційне мастило з лінійки DayPatron."
     },
     "image": [
-      { "url": "CLP-100ml.jpg" },
-      { "url": "CLP-250ml.jpg" },
+      { "url": "CLP-100ml.png" },
+      { "url": "CLP-250ml.png" },
       { "url": "CLP-500ml.jpg" },
       { "url": "oil-drop.jpg" },
       { "url": "throat.jpg" }
@@ -73,9 +74,10 @@
   {
     "id": 2,
     "article": 780260,
+    "linkName": "neutral-synthetic-oil",
     "name": {
       "en": "Neutral synthetic oil",
-      "ua": "Нейтральне, синтетичне мастило."
+      "ua": "Нейтральне, синтетичне мастило"
     },
     "specification": {
       "en": {
@@ -143,6 +145,7 @@
   {
     "id": 3,
     "article": 780260,
+    "linkName": "rust-protection",
     "name": {
       "en": "Rust Protection",
       "ua": "Захист від ржавчини"
@@ -213,6 +216,7 @@
   {
     "id": 4,
     "article": 780260,
+    "linkName": "carbon-killer",
     "name": {
       "en": "Carbon Killer",
       "ua": "Знищувач нагару"
@@ -284,6 +288,7 @@
   {
     "id": 5,
     "article": 780260,
+    "linkName": "copper-killer",
     "name": {
       "en": "Copper Killer",
       "ua": "Знищувач міді"
@@ -355,6 +360,7 @@
   {
     "id": 6,
     "article": 780260,
+    "linkName": "liquidator",
     "name": {
       "en": "Liquidator",
       "ua": "Очисник ствола"

@@ -31,6 +31,7 @@ const FaqSchema = new Schema({
 const dayPatronData = new Schema({
   id: Number,
   article: Number,
+  linkName: String,
   name: {
     en: String,
     ua: String,
