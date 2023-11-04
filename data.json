@@ -322,7 +322,26 @@
       "en": ["100 ml", "250 ml", "500 ml"],
       "ua": ["100 мл", "250 мл", "500 мл"]
     },
-    "benefits": ["step_1.svg", "high_penetration.svg", "easy_acting.svg"],
+    "benefits": {
+      "en": [
+        "reduces friction",
+        "prevents wear",
+        "prevents rust/corrosian",
+        "maximizes smooth sliding on all metal surfaces",
+        "neutral pH level",
+        "displaces moisture",
+        " -40°C to +200°C"
+      ],
+      "ua": [
+        "зменшує тертя",
+        "запобігає зноcу",
+        "запобігає іржі/корозії",
+        "максимально плавне ковзання по всіх металевих поверхнях",
+        "нейтральний рівень pH",
+        "витісняє вологу",
+        "-40°C до +200°C."
+      ]
+    },
     "ingredients": {
       "en": "A mixture of aromatic organic acids, anionic surfactants <5%, amino alcohols, organic compounds of the lactam class.",
       "ua": "Суміш ароматичних органічних кислот, аніонні ПАР<5%, аміноспирти, органічні сполуки класу лактамів."
@@ -398,7 +417,26 @@
       "en": ["100 ml", "250 ml", "500 ml"],
       "ua": ["100 мл", "250 мл", "500 мл"]
     },
-    "benefits": ["step_1-2.svg", "ammonia_free.svg", "safety.svg"],
+    "benefits": {
+      "en": [
+        "reduces friction",
+        "prevents wear",
+        "prevents rust/corrosian",
+        "maximizes smooth sliding on all metal surfaces",
+        "neutral pH level",
+        "displaces moisture",
+        " -40°C to +200°C"
+      ],
+      "ua": [
+        "зменшує тертя",
+        "запобігає зноcу",
+        "запобігає іржі/корозії",
+        "максимально плавне ковзання по всіх металевих поверхнях",
+        "нейтральний рівень pH",
+        "витісняє вологу",
+        "-40°C до +200°C."
+      ]
+    },
     "ingredients": {
       "en": "A mixture of aromatic organic acids, anionic surfactants <5%, organic compounds of the lactam class.",
       "ua": "Суміш ароматичних органічних кислот, аніонні ПАВ<5%, органічні сполуки класу лактамів."
@@ -474,7 +512,26 @@
       "en": ["100 ml", "250 ml", "500 ml"],
       "ua": ["100 мл", "250 мл", "500 мл"]
     },
-    "benefits": ["step_1-2.svg", "ammonia_free.svg", "safety.svg"],
+    "benefits": {
+      "en": [
+        "reduces friction",
+        "prevents wear",
+        "prevents rust/corrosian",
+        "maximizes smooth sliding on all metal surfaces",
+        "neutral pH level",
+        "displaces moisture",
+        " -40°C to +200°C"
+      ],
+      "ua": [
+        "зменшує тертя",
+        "запобігає зноcу",
+        "запобігає іржі/корозії",
+        "максимально плавне ковзання по всіх металевих поверхнях",
+        "нейтральний рівень pH",
+        "витісняє вологу",
+        "-40°C до +200°C."
+      ]
+    },
     "ingredients": {
       "en": "A mixture of aromatic organic acids, anionic surfactants <5%, organic compounds of the lactam class.",
       "ua": "Суміш ароматичних органічних кислот, аніонні ПАВ<5%, органічні сполуки класу лактамів."
