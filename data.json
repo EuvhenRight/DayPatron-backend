@@ -41,7 +41,26 @@
       "en": ["100 ml", "250 ml", "500 ml"],
       "ua": ["100 мл", "250 мл", "500 мл"]
     },
-    "benefits": ["all_in_one.svg", "all_types.svg", "user_friendly.svg"],
+    "benefits": {
+      "en": [
+        "reduces friction",
+        "prevents wear",
+        "prevents rust/corrosian",
+        "cleans surfaces with medium-level dirt",
+        "neutralizes acidic residues",
+        "displaces moisture",
+        " -40°C to +200°C"
+      ],
+      "ua": [
+        "зменшує тертя",
+        "запобігає зноcу",
+        "запобігає іржі/корозії",
+        "очищує поверхні від середнього рівня забруднення",
+        "нейтралізує кислотні залишки",
+        "витісняє вологу",
+        "-40°C до +200°C."
+      ]
+    },
     "ingredients": {
       "en": "Synthetic grease, cleaning and anti-corrosion additives. Neutral pH.",
       "ua": "Синтетичне мастило, очищаючі та антикорозійні присадки. Нейтральне pH."
@@ -115,7 +134,26 @@
       "en": ["100 ml", "250 ml"],
       "ua": ["100 мл", "250 мл"]
     },
-    "benefits": ["step_3.svg", "neutral.svg", "temperature.svg"],
+    "benefits": {
+      "en": [
+        "reduces friction",
+        "prevents wear",
+        "prevents rust/corrosian",
+        "maximizes smooth sliding on all metal surfaces",
+        "neutral pH level",
+        "displaces moisture",
+        " -40°C to +200°C"
+      ],
+      "ua": [
+        "зменшує тертя",
+        "запобігає зноcу",
+        "запобігає іржі/корозії",
+        "максимально плавне ковзання по всіх металевих поверхнях",
+        "нейтральний рівень pH",
+        "витісняє вологу",
+        "-40°C до +200°C."
+      ]
+    },
     "ingredients": {
       "en": "Synthetic grease, cleaning and anti-corrosion additives.",
       "ua": "Синтетичне мастило, очищаючі та антикорозійні присадки."
@@ -189,7 +227,26 @@
       "en": ["100 ml", "250 ml"],
       "ua": ["100 мл", "250 мл"]
     },
-    "benefits": ["step_3.svg", "all_seasons.svg", "longer.svg"],
+    "benefits": {
+      "en": [
+        "prevents wear",
+        "prevents rust/corrosian",
+        "neutralizes acidic residues",
+        "long term storage",
+        "displaces moisture",
+        "forms a dry wax film",
+        "does not harm plastic and rubber materials"
+      ],
+      "ua": [
+        "запобігає зноcу",
+        "запобігає іржі/корозії",
+        "нейтралізує кислотні залишки",
+        "тривале зберігання»",
+        "витісняє вологу",
+        "cтворює суху воскову плівку",
+        "не шкодить пластмасовим та гумовим матеріалам"
+      ]
+    },
     "ingredients": {
       "en": "Hydrocarbons C10-C13, n-alkanes, isoalkanes, aromatic fatty acids, corrosion additives.",
       "ua": "Вуглеводні С10-С13, н-алкани, ізоалкани, ароматичні жирні кислоти, корозійні присадки."

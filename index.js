@@ -60,6 +60,7 @@ app.get('/products/:lang/:id', async (req, res) => {
         specification: product.specification[lang],
         description: product.description[lang],
         useTo: product.useTo[lang],
+        benefits: product.benefits[lang],
         composition: product.ingredients[lang],
         shelfLife: product.shelfLife[lang],
         volume: product.volume[lang],

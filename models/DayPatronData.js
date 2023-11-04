@@ -51,7 +51,10 @@ const dayPatronData = new Schema({
     en: [String],
     ua: [String],
   },
-  benefits: [String],
+  benefits: {
+    en: [String],
+    ua: [String],
+  },
   ingredients: {
     en: String,
     ua: String,
