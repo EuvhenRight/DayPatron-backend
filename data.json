@@ -7,6 +7,10 @@
       "en": "Universal oil CLP 3 in 1",
       "ua": "Універсальне мастило CLP 3 в 1"
     },
+    "UTP": {
+      "en": "CLEAN, LUBE, PROTECT",
+      "ua": "ОЧИСТИТИ, ЗМАСТИТИ, ЗАХИСТИТИ"
+    },
     "specification": {
       "en": {
         "text": "Bottle type: Treated HDPE Plastic. Cap type: Twist Open/Close, Dispensing Cap with/ foam gasket seal. ",
@@ -38,8 +42,8 @@
     ],
 
     "volume": {
-      "en": ["100 ml", "250 ml", "500 ml"],
-      "ua": ["100 мл", "250 мл", "500 мл"]
+      "en": ["100 ml", "250 ml", "500 ml", "1L", "5L", "10L", "20L"],
+      "ua": ["100 мл", "250 мл", "500 мл", "1Л", "5Л", "10Л", "20Л"]
     },
     "benefits": {
       "en": [
@@ -102,6 +106,10 @@
       "en": "Neutral synthetic oil",
       "ua": "Нейтральне, синтетичне мастило"
     },
+    "UTP": {
+      "en": "Maximal Smooth Sliding on All Metal Surfaces",
+      "ua": "Mаксимально Плавне Ковзання по Всіх Mеталевих Поверхнях"
+    },
     "specification": {
       "en": {
         "text": "Rust protection, neutral acid-alkaline environment, lubrication",
@@ -131,15 +139,15 @@
     ],
 
     "volume": {
-      "en": ["100 ml", "250 ml"],
-      "ua": ["100 мл", "250 мл"]
+      "en": ["100 ml", "250 ml", "500 ml", "1L", "5L", "10L", "20L"],
+      "ua": ["100 мл", "250 мл", "500 мл", "1Л", "5Л", "10Л", "20Л"]
     },
     "benefits": {
       "en": [
         "reduces friction",
         "prevents wear",
         "prevents rust/corrosian",
-        "maximizes smooth sliding on all metal surfaces",
+        "maximal smooth sliding on all metal surfaces",
         "neutral pH level",
         "displaces moisture",
         " -40°C to +200°C"
@@ -195,6 +203,10 @@
       "en": "Rust Protection",
       "ua": "Захист від ржавчини"
     },
+    "UTP": {
+      "en": "Long Term Storage",
+      "ua": "Tривале Зберігання"
+    },
     "specification": {
       "en": {
         "text": "Rust protection, neutral acid-alkaline environment, lubrication",
@@ -224,8 +236,8 @@
     ],
 
     "volume": {
-      "en": ["100 ml", "250 ml"],
-      "ua": ["100 мл", "250 мл"]
+      "en": ["100 ml", "250 ml", "500 ml", "1L", "5L", "10L", "20L"],
+      "ua": ["100 мл", "250 мл", "500 мл", "1Л", "5Л", "10Л", "20Л"]
     },
     "benefits": {
       "en": [
@@ -241,7 +253,7 @@
         "запобігає зноcу",
         "запобігає іржі/корозії",
         "нейтралізує кислотні залишки",
-        "тривале зберігання»",
+        "тривале зберігання",
         "витісняє вологу",
         "cтворює суху воскову плівку",
         "не шкодить пластмасовим та гумовим матеріалам"
@@ -288,6 +300,10 @@
       "en": "Carbon Killer",
       "ua": "Знищувач нагару"
     },
+    "UTP": {
+      "en": "Remove Carbon Deposits, Plastic, and old Oil",
+      "ua": "Усуває Залишки Карбону, Пластику та старого Мастила"
+    },
     "specification": {
       "en": {
         "text": "Rust protection, neutral acid-alkaline environment, lubrication",
@@ -319,27 +335,29 @@
     ],
 
     "volume": {
-      "en": ["100 ml", "250 ml", "500 ml"],
-      "ua": ["100 мл", "250 мл", "500 мл"]
+      "en": ["100 ml", "250 ml", "500 ml", "1L", "5L", "10L", "20L"],
+      "ua": ["100 мл", "250 мл", "500 мл", "1Л", "5Л", "10Л", "20Л"]
     },
     "benefits": {
       "en": [
-        "reduces friction",
-        "prevents wear",
-        "prevents rust/corrosian",
-        "maximizes smooth sliding on all metal surfaces",
-        "neutral pH level",
-        "displaces moisture",
-        " -40°C to +200°C"
+        "unique formula",
+        "odorless",
+        "non-toxic",
+        "biodegradable",
+        "contains no Ammonia",
+        "non-flammable",
+        "remove carbon deposits, plastic, and old oil",
+        "short term rust preventative"
       ],
       "ua": [
-        "зменшує тертя",
-        "запобігає зноcу",
-        "запобігає іржі/корозії",
-        "максимально плавне ковзання по всіх металевих поверхнях",
-        "нейтральний рівень pH",
-        "витісняє вологу",
-        "-40°C до +200°C."
+        "унікальна формула",
+        "без запаху",
+        "нетоксичний",
+        "біорозкладний",
+        "не містить аміаку",
+        "негорючий",
+        "усуває залишки карбону, пластику та старого мастила",
+        "короткостроковий захист від іржі"
       ]
     },
     "ingredients": {
@@ -383,6 +401,10 @@
       "en": "Copper Killer",
       "ua": "Знищувач міді"
     },
+    "UTP": {
+      "en": "Removes Copper and its Compounds",
+      "ua": "Видаляє відкладення Mіді та її Cполуки"
+    },
     "specification": {
       "en": {
         "text": "Rust protection, neutral acid-alkaline environment, lubrication",
@@ -414,27 +436,29 @@
     ],
 
     "volume": {
-      "en": ["100 ml", "250 ml", "500 ml"],
-      "ua": ["100 мл", "250 мл", "500 мл"]
+      "en": ["100 ml", "250 ml", "500 ml", "1L", "5L", "10L", "20L"],
+      "ua": ["100 мл", "250 мл", "500 мл", "1Л", "5Л", "10Л", "20Л"]
     },
     "benefits": {
       "en": [
-        "reduces friction",
-        "prevents wear",
-        "prevents rust/corrosian",
-        "maximizes smooth sliding on all metal surfaces",
-        "neutral pH level",
-        "displaces moisture",
-        " -40°C to +200°C"
+        "unique formula",
+        "odorless",
+        "non-toxic",
+        "biodegradable",
+        "contains no Ammonia",
+        "non-flammable",
+        "removes copper and its compounds",
+        "short term rust preventative"
       ],
       "ua": [
-        "зменшує тертя",
-        "запобігає зноcу",
-        "запобігає іржі/корозії",
-        "максимально плавне ковзання по всіх металевих поверхнях",
-        "нейтральний рівень pH",
-        "витісняє вологу",
-        "-40°C до +200°C."
+        "унікальна формула",
+        "без запаху",
+        "нетоксичний",
+        "біорозкладний",
+        "не містить аміаку",
+        "негорючий",
+        "видаляє відкладення міді та її сполуки",
+        "короткостроковий захист від іржі"
       ]
     },
     "ingredients": {
@@ -478,6 +502,10 @@
       "en": "Liquidator",
       "ua": "Очисник ствола"
     },
+    "UTP": {
+      "en": "Removes All Types of Impurities in the Barrel",
+      "ua": "Видаляє Всі Типи Забруднень у Стволі"
+    },
     "specification": {
       "en": {
         "text": "Rust protection, neutral acid-alkaline environment, lubrication",
@@ -509,27 +537,29 @@
     ],
 
     "volume": {
-      "en": ["100 ml", "250 ml", "500 ml"],
-      "ua": ["100 мл", "250 мл", "500 мл"]
+      "en": ["100 ml", "250 ml", "500 ml", "1L", "5L", "10L", "20L"],
+      "ua": ["100 мл", "250 мл", "500 мл", "1Л", "5Л", "10Л", "20Л"]
     },
     "benefits": {
       "en": [
-        "reduces friction",
-        "prevents wear",
-        "prevents rust/corrosian",
-        "maximizes smooth sliding on all metal surfaces",
-        "neutral pH level",
-        "displaces moisture",
-        " -40°C to +200°C"
+        "unique high-performance formula",
+        "odorless",
+        "non-toxic",
+        "biodegradable",
+        "contains no Ammonia",
+        "non-flammable",
+        "removes all types of impurities",
+        "short term rust preventative"
       ],
       "ua": [
-        "зменшує тертя",
-        "запобігає зноcу",
-        "запобігає іржі/корозії",
-        "максимально плавне ковзання по всіх металевих поверхнях",
-        "нейтральний рівень pH",
-        "витісняє вологу",
-        "-40°C до +200°C."
+        "унікальна високопродуктивнa формула",
+        "без запаху",
+        "нетоксичний",
+        "біорозкладний",
+        "не містить аміаку",
+        "негорючий",
+        "видаляє всі види забруднень",
+        "короткостроковий захист від іржі"
       ]
     },
     "ingredients": {

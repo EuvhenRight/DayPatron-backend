@@ -36,6 +36,10 @@ const dayPatronData = new Schema({
     en: String,
     ua: String,
   },
+  UTP: {
+    en: String,
+    ua: String,
+  },
   specification: SpecificationSchema,
   description: {
     en: String,
