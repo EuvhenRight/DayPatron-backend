@@ -26,6 +26,14 @@ const FaqSchema = new Schema({
     en: { Q: String, A: String },
     ua: { Q: String, A: String },
   },
+  question_3: {
+    en: { Q: String, A: String },
+    ua: { Q: String, A: String },
+  },
+  question_4: {
+    en: { Q: String, A: String },
+    ua: { Q: String, A: String },
+  },
 });
 
 const dayPatronData = new Schema({

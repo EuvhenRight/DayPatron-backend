@@ -371,22 +371,42 @@
     "faq": {
       "question_1": {
         "en": {
-          "Q": "Can I use Neutral synthetic oil for long term storage?",
-          "A": "No, Neutral Synthetic Oil is designed for use inside of the bore on moving part to reduce friction and wear. For long term storage, use DayPatron Rust Protection to protect against rust and corrosion for extended periods."
+          "Q": "What is the difference in cleaners between Carbon Killer and Liquidator?",
+          "A": "The Carbon Killer is recommended for extreme carbon fouling situations, such as AR bolt/bolt carriers, revolver cylinders, or neglected barrels. It specifically removes carbon fouling only. The Liquidator removes both carbon and copper fouling and is recommended for most regular fouling situations."
         },
         "ua": {
-          "Q": "чи можу я використовувати нейтральну синтетичну оливу для тривалого зберігання?",
-          "A": "Ні, нейтральне синтетичне масло призначене для використання всередині отвору на рухомій частині для зменшення тертя та зносу. Для тривалого зберігання використовуйте DayPatron Rust Protection для захисту від іржі та корозії протягом тривалого часу."
+          "Q": "Яка різниця в очищувачах між Знищувачем нагару та Ліквідатором?",
+          "A": "Знищувач нагара рекомендується для екстремальних ситуацій із забрудненням вуглецем, таких як затвір та затвірна рама AR, циліндри револьверів чи занедбані стволи. Він спеціально видаляє лише вуглецеві забруднення. Очісник ствола Ліквідатор видаляє як вуглецеві, так і мідні забруднення і рекомендується для більшості звичайних випадків забруднення."
         }
       },
       "question_2": {
         "en": {
-          "Q": "Can I use Neutral synthetic oil for long term storage?",
-          "A": "No, Neutral Synthetic Oil is designed for use inside of the bore on moving part to reduce friction and wear. For long term storage, use DayPatron Rust Protection to protect against rust and corrosion for extended periods."
+          "Q": "Does Carbon Killer contain ammonia or any other barrel-damaging components?",
+          "A": "No, Carbon Killer is 100% safe for your barrel."
         },
         "ua": {
-          "Q": "чи можу я використовувати нейтральну синтетичну оливу для тривалого зберігання?",
-          "A": "Ні, нейтральне синтетичне масло призначене для використання всередині отвору на рухомій частині для зменшення тертя та зносу. Для тривалого зберігання використовуйте DayPatron Rust Protection для захисту від іржі та корозії протягом тривалого часу."
+          "Q": "Чи містить Знищувач нагара аміак або інші компоненти, що можуть пошкодити ствол?",
+          "A": "Ні, Знищувач нагара на 100% безпечний для ствола."
+        }
+      },
+      "question_3": {
+        "en": {
+          "Q": "Can Carbon Killer be used as a lubricant?",
+          "A": "No, Carbon Killer is a cleaner, not a lubricant. Use DayPatron Neutral synthetic oil or Universal oil CLP 3 in 1 for superior lubrication."
+        },
+        "ua": {
+          "Q": "Чи можна використовувати Знищувач нагара як мастило?",
+          "A": "Ні, Знищувач нагара - це очисник, а не мастило. Використовуйте синтетичне масло DayPatron Нейтральне синтетичне мастило або Універсальне мастило CLP 3 в 1 для відмінного змащування."
+        }
+      },
+      "question_4": {
+        "en": {
+          "Q": "Can Carbon Killer be used on the outside of my rifle barrel?",
+          "A": "Yes, Carbon Killer can be safely used on the outside of a rifle barrel to remove carbon fouling. Once finished cleaning, be sure to wipe the cleaned area dry and apply DayPatron Rust Protection."
+        },
+        "ua": {
+          "Q": "Чи можна використовувати Знищувач нагару із зовнішнього боку ствола моєї рушниці?",
+          "A": "Так, Знищувач нагару можна безпечно використовувати на зовнішній стороні ствола рушниці для видалення вуглецевого забруднення. Після завершення очищення, обов'язково витріть очищену ділянку насухо та нанесіть DayPatron Захист від ржавчини."
         }
       }
     },
