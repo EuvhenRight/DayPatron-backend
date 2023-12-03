@@ -72,6 +72,8 @@ app.get('/products/:lang/:id', async (req, res) => {
         faq: {
           question_1: product.faq.question_1[lang],
           question_2: product.faq.question_2[lang],
+          question_3: product.faq.question_3[lang],
+          question_4: product.faq.question_4[lang],
         },
       };
       res.json(productInSelectedLanguage);
