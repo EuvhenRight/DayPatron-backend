@@ -106,12 +106,12 @@
 			},
 			"question_4": {
 				"en": {
-					"Q": "",
-					"A": ""
+					"Q": "Can I use only 'Universal CLP 3-in-1 oil' for cleaning, or do I need other products?",
+					"A": "No, 'Universal CLP 3-in-1 oil' can help remove light fouling and dirt, but it is not effective in removing heavy deposits such as carbon buildup and copper fouling. We recommend using our cleaning product line: 'Liquidator,' 'Copper Killer,' and 'Carbon Killer.'"
 				},
 				"ua": {
-					"Q": "",
-					"A": ""
+					"Q": "Чи можна використовувати тільки 'Універсальне мастило CLP 3 в 1' для чищення?",
+					"A": "Ні, 'Універсальне мастило CLP 3 в 1' мастило може допомогти видалити легкий нальот нагару та бруду, але воно не ефективне у видаленні важких забруднень, таких як карбонові відкладення та мідні ускладнення. Рекомендуємо скористатися нашою лінійкою засобів для чищення: 'Очисник ствола', 'Знищувач міді' та 'Знищувач нагара',"
 				}
 			}
 		},
@@ -215,22 +215,22 @@
 			},
 			"question_3": {
 				"en": {
-					"Q": "",
-					"A": ""
+					"Q": "Can 'Neutral Synthetic Oil' be used on different types of surfaces?",
+					"A": "Yes, 'Neutral Synthetic Oil' can be used on various types of surfaces, including metal, plastic, and rubber. It is suitable for all external and internal parts of the firearm, providing effective lubrication and corrosion protection."
 				},
 				"ua": {
-					"Q": "",
-					"A": ""
+					"Q": "Чи можна використовувати 'Нейтральне синтетичне мастило' на різних типах поверхонь?",
+					"A": "Так, 'Нейтральне синтетичне мастило' можна використовувати на різних типах поверхонь, включаючи металеві, пластикові та гумові. Воно підходить для всіх зовнішніх і внутрішніх частин зброї, забезпечуючи ефективне змащення та захист від корозії."
 				}
 			},
 			"question_4": {
 				"en": {
-					"Q": "",
-					"A": ""
+					"Q": "How often should 'Neutral Synthetic oil' be applied to firearms?",
+					"A": "It is recommended to apply 'Neutral Synthetic oil' after each firearm cleaning to ensure optimal lubrication and corrosion protection, as well as protection against the effects of the chemical components used for cleaning. Additionally, this oil helps maintain the optimal pH level on the firearm surface, which is important for its preservation."
 				},
 				"ua": {
-					"Q": "",
-					"A": ""
+					"Q": "Як часто потрібно наносити 'Нейтральне синтетичне мастило' для зброї?",
+					"A": "Рекомендовано наносити 'Нейтральне синтетичне мастило' після кожного чищення зброї, щоб забезпечити оптимальне змащення та захист від корозії, а також захист від впливу хімічних компонентів, які використовуються для очищення. Крім того, це мастило допомагає підтримувати оптимальний рівень pH на поверхні зброї, що важливо для її збереження."
 				}
 			}
 		},
@@ -339,17 +339,17 @@
 				},
 				"ua": {
 					"Q": "Чи є Rust Protection змащувальним засобом?",
-					"A": "Ми не рекомендуємо використовувати  Rust Protection як змащувальний засіб. Для цього застосування ми рекомендуємо наше мастило CLP або Neutral Synthetic Oil."
+					"A": "Ми не рекомендуємо використовувати  'Захист від іржі та корозії' як змащувальний засіб. Для цього застосування ми рекомендуємо наше мастило 'Універсальне мастило CLP 3 в 1' або 'Нейтральне синтетичне мастило'."
 				}
 			},
 			"question_4": {
 				"en": {
-					"Q": "",
-					"A": ""
+					"Q": "Do I need to clean and lubricate the firearm additionally before the first shot if it has been treated with 'Rust and Corrosion Protection'?",
+					"A": "Yes, 'Rust and Corrosion Protection' protects your firearm from rust and corrosion, but it is not a lubricant. Before shooting, you need to lubricate the moving parts and the inside of the barrel. We recommend doing this with 'Universal CLP 3-in-1 oil' or 'Neutral Synthetic oil'."
 				},
 				"ua": {
-					"Q": "",
-					"A": ""
+					"Q": "Чи потрібно перед першим пострілом зі зброєю, яка була оброблена засобом 'Захист від іржі та корозії', додатково чистити та змащувати зброю?",
+					"A": "Так, 'Захист від іржі та корозії' захищає вашу зброю від іржі та корозії, але він не є мастилом. Перед стрільбою вам потрібно змастити рухомі частини та середину ствола мастилом. Ми рекомендуємо робити це засобами 'Універсальне мастило CLP 3 в 1' або 'Нейтральне синтетичне мастило'."
 				}
 			}
 		},
