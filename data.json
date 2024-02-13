@@ -1,722 +1,683 @@
 [
-  {
-    "id": 1,
-    "article": 780260,
-    "linkName": "universal-oil-CLP-3-in-1",
-    "name": {
-      "en": "Universal oil CLP 3 in 1",
-      "ua": "Універсальне мастило CLP 3 в 1"
-    },
-    "UTP": {
-      "en": "CLEAN, LUBE, PROTECT",
-      "ua": "ОЧИСТИТИ, ЗМАСТИТИ, ЗАХИСТИТИ"
-    },
-    "specification": {
-      "en": {
-        "text": "Bottle type: Treated HDPE Plastic. Cap type: Twist Open/Close, Dispensing Cap with/ foam gasket seal. ",
-        "url": "Oil_guide-en.png"
-      },
-      "ua": {
-        "text": "Тип пляшки: оброблений пластик HDPE. Тип ковпачка: Поворотне відкриття/закриття, ковпачок дозування з ущільнювачем із пінопласту.",
-        "url": "Oil_guide-ua.png"
-      }
-    },
-    "description": {
-      "en": "For use in field conditions, thanks to its high penetration properties, quickly and safely cleans, lubricates, and protects all external and internal metal surfaces. Designed for all types of rifled and smoothbore firearms of small and large caliber. Protects metal surfaces from climatic and mechanical influences, provides a lubricating effect to protect against friction, maintaining the weapon's operational condition. It does not lose its properties at extreme temperatures from -40°C to +200°C. Neutralizes acidic residues from powder, removes resinous deposits, light lead, copper, and brass deposits, displaces moisture. Clean: Safely cleans external and internal metal surfaces, neutralizes residues after shooting. Lubricant: Lubricates external and internal firearm parts, reduces friction of moving parts of mechanisms. Protect: Protects metal from corrosion, displaces moisture, creates a protective film.",
-      "ua": "Для застосування в польових умовах, завдяки високим властивостям проникнення, швидко та безпечно очищає, змащує та захищає всі зовнішні і внутрішні металеві поверхні. Призначений для всіх видів нарізної та гладкоствольної зброї малого та великого калібру. Захищає металеві поверхні від кліматичних і механічних впливів, має змащувальний ефект для захисту від тертя, підтримуючі робочий стан зброї. Не втрачає своїх властивостей при екстремальних температурах від -40°C до +200°C. Нейтралізує кислотні залишки від пороху, видаляє смолисті відкладення, легкий наліт свинцю, міді і томпаку, витісняє вологу. Clean: безпечно очищує зовнішні та внутрішні металеві поверхні, нейтралізує залишки після пострілу. Lubricant: змащує зовнішні та внутрішні частини зброї, зменшує тертя рухомих частин механізмів. Protect: захищає метал від корозії, витісняє вологу, створює захисну плівку."
-    },
-    "useTo": {
-      "en": "Unload the weapon. Run 3-4 patches through the barrel that are soaked in CLP Oil. Make 10-15 passes with a brush soaked in CLP. Run 3-4 patches soaked in CLP through the barrel until they come out clean. Then run 1-2 dry patches. Clean all exposed surfaces with CLP patches. Remove oil from wooden surfaces. In case of stubborn stains, clean with special cleaning agents from the DayPatron range. For long-term storage or under adverse conditions, use Rust Protection from the DayPatron range.",
-      "ua": "Розрядіть зброю. Проженіть через ствол 3-4 патчі, змочені мастилом CLP. Зробіть 10-15 проходів йоржиком, змоченим CLP. Проженіть через ствол 3-4 патчі, з CLP, поки вони не виходитимуть чистими. Після проженіть 1-2 сухих патчі. Всі відкриті поверхні очистіть серветкою з CLP. Видаліть мастило з дерев’яних поверхонь. В разі стійких забруднень, проведіть чистку спеціальними очисними засобами з лінійки DayPatron. Для тривалого зберігання або за несприятливих умов застосовуйте консерваційне мастило з лінійки DayPatron."
-    },
-    "image": [
-      { "url": "CLP-100ml.png" },
-      { "url": "CLP-100ml-side.png" },
-      { "url": "CLP-100ml-back.png" },
-      { "url": "CLP-250ml.png" },
-      { "url": "CLP-250ml-back.png" },
-      { "url": "CLP-500ml.png" },
-      { "url": "CLP-500ml-back.png" },
-      { "url": "oil-drop.png" },
-      { "url": "throat.png" }
-    ],
+	{
+		"id": 1,
+		"article": "DP100100, DP100250, DP100500",
+		"linkName": "universal-oil-CLP-3-in-1",
+		"name": {
+			"en": "Universal oil CLP 3 in 1",
+			"ua": "Універсальне мастило CLP 3 в 1"
+		},
+		"UTP": {
+			"en": "Clean, Lube, Protect",
+			"ua": "Очищає, Змащує, Захищає"
+		},
+		"specification": {
+			"en": {
+				"text": "Bottle type: Treated HDPE Plastic. Cap type: Twist Open/Close, Dispensing Cap with/ foam gasket seal. ",
+				"url": "Oil_guide-en.png"
+			},
+			"ua": {
+				"text": "Тип пляшки: оброблений пластик HDPE. Тип ковпачка: Поворотне відкриття/закриття, ковпачок дозування з ущільнювачем із пінопласту.",
+				"url": "Oil_guide-ua.png"
+			}
+		},
+		"description": {
+			"en": "For use in field conditions, thanks to its high penetration properties, it quickly and safely cleans, lubricates, and protects all external and internal metal surfaces. Designed for all types of small and large caliber firearms. Clean: safely cleans external and internal metal surfaces, neutralizes residues after firing. Lubricant: lubricates external and internal parts of the firearm, reduces friction of moving mechanism parts.Protect: protects metal from corrosion, displaces moisture, creates a protective film.Does not lose its properties at extreme temperatures from -40°C to +200°C. Neutralizes acidic residues from powder, removes resinous deposits, light deposits of lead, copper, and tombac, displaces moisture.",
+			"ua": "Для застосування в польових умовах, завдяки високим властивостям проникнення, швидко та безпечно очищає, змащує та захищає всі зовнішні і внутрішні металеві поверхні. Призначений для всіх видів нарізної та гладкоствольної зброї малого та великого калібру. Clean: безпечно очищує зовнішні та внутрішні металеві поверхні, нейтралізує залишки після пострілу. Lubricant: змащує зовнішні та внутрішні частини зброї, зменшує тертя рухомих частин механізмів. Protect: захищає метал від корозії, витісняє вологу, створює захисну плівку. Не втрачає своїх властивостей при екстремальних температурах від -40°C до +200°C. Нейтралізує кислотні залишки від пороху, видаляє смолисті відкладення, легкий наліт свинцю, міді і томпаку, витісняє вологу."
+		},
+		"useTo": {
+			"en": "Unload the weapon. Run 3-4 patches soaked in CLP through the barrel. Make 10-15 passes with a bore brush soaked in CLP. Run 3-4 CLP-soaked patches through the barrel until they come out clean. Afterward, run 1-2 dry patches through. Clean all exposed surfaces with a CLP-soaked cloth. Remove oil from wooden surfaces. Apply oil to the cleaned surface and let it sit for some time. Then, perform a regular cleaning using standard tools and remove any remaining dirt. For stubborn dirt, use specialized cleaning products from the DayPatron line. For long-term storage or in adverse conditions, apply preservation oil from the DayPatron line.",
+			"ua": "Розрядіть зброю. Проженіть через ствол 3-4 патчі, змочені мастилом CLP. Зробіть 10-15 проходів йоржиком, змоченим CLP. Проженіть через ствол 3-4 патчі, з CLP, поки вони не виходитимуть чистими. Після проженіть 1-2 сухих патчі. Всі відкриті поверхні очистіть серветкою з CLP. Видаліть мастило з дерев’яних поверхонь. Нанесіть мастило на поверхню, яка очищується, та залиште його подіяти протягом деякого часу. Потім проведіть чистку звичайними засобами і видаліть залишки бруду.В разі стійких забруднень, проведіть чистку спеціальними очисними засобами з лінійки DayPatron. Для тривалого зберігання або за несприятливих умов застосовуйте консерваційне мастило з лінійки DayPatron."
+		},
+		"image": [
+			{ "url": "CLP-100ml.png" },
+			{ "url": "CLP-100ml-side.png" },
+			{ "url": "CLP-100ml-back.png" },
+			{ "url": "CLP-250ml.png" },
+			{ "url": "CLP-250ml-back.png" },
+			{ "url": "CLP-500ml.png" },
+			{ "url": "CLP-500ml-back.png" },
+			{ "url": "oil-drop.png" },
+			{ "url": "throat.png" }
+		],
 
-    "volume": {
-      "en": ["100 ml", "250 ml", "500 ml", "1L", "5L", "10L", "20L"],
-      "ua": ["100 мл", "250 мл", "500 мл", "1Л", "5Л", "10Л", "20Л"]
-    },
-    "benefits": {
-      "en": [
-        "reduces friction",
-        "prevents wear",
-        "prevents rust/corrosian",
-        "cleans surfaces with medium-level dirt",
-        "neutralizes acidic residues",
-        "displaces moisture",
-        " -40°C to +200°C"
-      ],
-      "ua": [
-        "зменшує тертя",
-        "запобігає зноcу",
-        "запобігає іржі/корозії",
-        "очищує поверхні від середнього рівня забруднення",
-        "нейтралізує кислотні залишки",
-        "витісняє вологу",
-        "-40°C до +200°C."
-      ]
-    },
-    "ingredients": {
-      "en": "Synthetic grease, cleaning and anti-corrosion additives. Neutral pH.",
-      "ua": "Синтетичне мастило, очищаючі та антикорозійні присадки. Нейтральне pH."
-    },
-    "shelfLife": {
-      "en": "5 years. Date of manufacture on the label.",
-      "ua": "5 років. Дата виготовлення зазначена на етикетці."
-    },
-    "faq": {
-      "question_1": {
-        "en": {
-          "Q": "Can I use Neutral synthetic oil for long term storage?",
-          "A": "No, Neutral Synthetic Oil is designed for use inside of the bore on moving part to reduce friction and wear. For long term storage, use DayPatron Rust Protection to protect against rust and corrosion for extended periods."
-        },
-        "ua": {
-          "Q": "чи можу я використовувати нейтральну синтетичну оливу для тривалого зберігання?",
-          "A": "Ні, нейтральне синтетичне масло призначене для використання всередині отвору на рухомій частині для зменшення тертя та зносу. Для тривалого зберігання використовуйте DayPatron Rust Protection для захисту від іржі та корозії протягом тривалого часу."
-        }
-      },
-      "question_2": {
-        "en": {
-          "Q": "Can I use Neutral synthetic oil for long term storage?",
-          "A": "No, Neutral Synthetic Oil is designed for use inside of the bore on moving part to reduce friction and wear. For long term storage, use DayPatron Rust Protection to protect against rust and corrosion for extended periods."
-        },
-        "ua": {
-          "Q": "чи можу я використовувати нейтральну синтетичну оливу для тривалого зберігання?",
-          "A": "Ні, нейтральне синтетичне масло призначене для використання всередині отвору на рухомій частині для зменшення тертя та зносу. Для тривалого зберігання використовуйте DayPatron Rust Protection для захисту від іржі та корозії протягом тривалого часу."
-        }
-      },
-      "question_3": {
-        "en": {
-          "Q": "Can I use Neutral synthetic oil for long term storage?",
-          "A": "No, Neutral Synthetic Oil is designed for use inside of the bore on moving part to reduce friction and wear. For long term storage, use DayPatron Rust Protection to protect against rust and corrosion for extended periods."
-        },
-        "ua": {
-          "Q": "чи можу я використовувати нейтральну синтетичну оливу для тривалого зберігання?",
-          "A": "Ні, нейтральне синтетичне масло призначене для використання всередині отвору на рухомій частині для зменшення тертя та зносу. Для тривалого зберігання використовуйте DayPatron Rust Protection для захисту від іржі та корозії протягом тривалого часу."
-        }
-      },
-      "question_4": {
-        "en": {
-          "Q": "Can I use Neutral synthetic oil for long term storage?",
-          "A": "No, Neutral Synthetic Oil is designed for use inside of the bore on moving part to reduce friction and wear. For long term storage, use DayPatron Rust Protection to protect against rust and corrosion for extended periods."
-        },
-        "ua": {
-          "Q": "чи можу я використовувати нейтральну синтетичну оливу для тривалого зберігання?",
-          "A": "Ні, нейтральне синтетичне масло призначене для використання всередині отвору на рухомій частині для зменшення тертя та зносу. Для тривалого зберігання використовуйте DayPatron Rust Protection для захисту від іржі та корозії протягом тривалого часу."
-        }
-      }
-    },
-    "category": "CLP",
-    "tradeMarkImage": "clp_tr.svg"
-  },
-  {
-    "id": 2,
-    "article": 780260,
-    "linkName": "neutral-synthetic-oil",
-    "name": {
-      "en": "Neutral synthetic oil",
-      "ua": "Нейтральне, синтетичне мастило"
-    },
-    "UTP": {
-      "en": "Maximal Smooth Sliding on All Metal Surfaces",
-      "ua": "Mаксимально Плавне Ковзання по Всіх Mеталевих Поверхнях"
-    },
-    "specification": {
-      "en": {
-        "text": "Rust protection, neutral acid-alkaline environment, lubrication",
-        "url": "Oil_guide-en.png"
-      },
-      "ua": {
-        "text": "Захист від іржі та корозії, Нейтральне кислотно-лужне середовище, змащування",
-        "url": "Oil_guide-ua.png"
-      }
-    },
-    "description": {
-      "en": "It has a neutral acid-base environment. Due to its penetrating properties, it cleans and neutralizes the residues of combustion products after the shot as well as protects against corrosion and weathering. Provides the necessary sliding on all metal surfaces, including all types of small and large caliber weapons. Neutral pH level. The grease is effective at extreme temperatures from -40 °C to +200 °C.",
-      "ua": "За рахунок відмінних властивостей проникнення, очищає та нейтралізує залишки продуктів горіння після пострілу, захищає від корозії та атмосферного впливу. Забезпечує необхідне ковзання на металевих поверхнях, в тому числі на всіх видах зброї малого та великого калібру. Нейтральний рівень pH. Мастило є ефективним при екстремальних температурах - 40 С° – +200 С°."
-    },
-    "useTo": {
-      "en": "Unload the weapon. Cleaning: Apply the oil to the surface to be cleaned and leave it for a while. Then clean with conventional means and remove any remaining dirt. If stubborn dirt is present, use special products from the DayPatron range to clean it. Lubrication: Apply oil to the surfaces to be treated, leave it on for a while, and then remove any residual lubricant with patches.",
-      "ua": "Розрядіть зброю. Чищення: Нанесіть мастило на поверхню, яка очищується, та залиште його подіяти протягом деякого часу. Потім проведіть чистку звичайними засобами і видаліть залишки бруду. Якщо присутні стійкі забруднення, використовуйте спеціальні засоби з лінійки DayPatron. Змащення: Нанесіть мастило на оброблювані поверхні, залиште його подіяти на деякий час, а потім видаліть залишки мастила за допомогою патчів, серветок або ганчір’я."
-    },
-    "image": [
-      { "url": "Neutral-Synthetic-Oil-100ml.png" },
-      { "url": "Neutral-Synthetic-Oil-100ml-side.png" },
-      { "url": "Neutral-Synthetic-Oil-100ml-back.png" },
-      { "url": "Neutral-Synthetic-Oil-250ml.png" },
-      { "url": "Neutral-Synthetic-Oil-250ml-back.png" },
-      { "url": "Neutral-Synthetic-Oil-500ml.png" },
-      { "url": "Neutral-Synthetic-Oil-500ml-back.png" },
-      { "url": "oil-drop.png" },
-      { "url": "throat.png" }
-    ],
+		"volume": {
+			"en": ["100 ml", "250 ml", "500 ml", "1L", "5L", "10L", "20L"],
+			"ua": ["100 мл", "250 мл", "500 мл", "1Л", "5Л", "10Л", "20Л"]
+		},
+		"benefits": {
+			"en": [
+				"Reduces friction",
+				"Prevents wear",
+				"Prevents rust/corrosian",
+				"Cleans surfaces with medium-level dirt",
+				"Neutralizes acidic residues",
+				"Displaces moisture",
+				"-40°C to +200°C"
+			],
+			"ua": [
+				"Зменшує тертя",
+				"Запобігає зноcу",
+				"Запобігає іржі/корозії",
+				"Очищує поверхні від середнього рівня забруднення",
+				"Нейтралізує кислотні залишки",
+				"Витісняє вологу",
+				"-40°C до +200°C."
+			]
+		},
+		"ingredients": {
+			"en": "Synthetic grease, cleaning and anti-corrosion additives. Neutral pH.",
+			"ua": "Синтетичне мастило, очищаючі та антикорозійні присадки. Нейтральне pH."
+		},
+		"shelfLife": {
+			"en": "5 years. Date of manufacture on the label.",
+			"ua": "5 років. Дата виготовлення зазначена на етикетці."
+		},
+		"faq": {
+			"question_1": {
+				"en": {
+					"Q": "What are the differences between 'Universal CLP 3-in-1' and 'Neutral Synthetic Oil'?",
+					"A": "'Neutral Synthetic Oil' is an excellent lubricant and protective agent. 'Universal CLP 3-in-1', on the other hand, is a cleaner, lubricant, and protector designed to break down and remove carbon, lead, and other residues, as well as provide protection against rust and corrosion."
+				},
+				"ua": {
+					"Q": "Які відмінності між 'Універсальне мастило CLP 3 в 1' та 'Нейтральне синтетичне мастило'?",
+					"A": "'Нейтральне синтетичне мастило' - це відмінний змащувач і засіб для захисту. 'Універсальне мастило CLP 3 в 1' - це засіб для очищення, змащування та захисту, призначений для розбиття та видалення вуглецю, свинцю та інш., а також надання захисту від ржавчини та корозії."
+				}
+			},
+			"question_2": {
+				"en": {
+					"Q": "Can 'Universal CLP 3-in-1' be used inside my barrel?",
+					"A": "Yes, 'Universal CLP 3-in-1' can be used inside your barrel to remove carbon, lead, and other residues, as well as to prevent rust and corrosion for an extended period."
+				},
+				"ua": {
+					"Q": "Чи можна використовувати 'Універсальне мастило CLP 3 в 1' всередині мого ствола?",
+					"A": "Так, 'Універсальне мастило CLP 3 в 1' можна використовувати всередині вашого ствола для видалення вуглецю, свинцю та інш., а також для запобігання ржавіння та корозії на тривалий час."
+				}
+			},
+			"question_3": {
+				"en": {
+					"Q": "When should I use 'Universal CLP 3-in-1' over 'Neutral Synthetic Oil' or 'Rust Protection'?",
+					"A": "A: 'Neutral Synthetic Oil' is recommended for internal use and as an excellent lubricant on moving parts for protection against rust and corrosion. 'Rust Protection' is recommended for use on the exterior of firearms for long-term protection against rust and corrosion. 'Universal CLP 3-in-1' is recommended as a one-step cleaner, lubricant, and protectant that removes deposits, provides lubrication, and offers enhanced rust and corrosion protection."
+				},
+				"ua": {
+					"Q": "Коли мені слід використовувати 'Універсальне мастило CLP 3 в 1' замість Neutral Synthetic Oil або Rust Protection?",
+					"A": "'Нейтральне синтетичне мастило' - це відмінний змащувач і засіб для захисту. 'Захист від іржі та коррозії' - рекомендується для використання на зовнішній поверхні вогнепальної зброї для захисту від ржавчини та корозії на тривалий термін. 'Універсальне мастило CLP 3 в 1' - рекомендується як засіб для одного етапу очищення, змащування та захисту, який видаляє відкладення, забезпечує змащування та покращений захист від ржавчини та корозії."
+				}
+			}
+		},
+		"category": "CLP",
+		"tradeMarkImage": "clp_tr.svg"
+	},
+	{
+		"id": 2,
+		"article": "DP500100, DP500250, DP500500",
+		"linkName": "neutral-synthetic-oil",
+		"name": {
+			"en": "Neutral synthetic oil",
+			"ua": "Нейтральне, синтетичне мастило"
+		},
+		"UTP": {
+			"en": "Smooth movement across all metal surfaces",
+			"ua": "Максимально плавний рух по всіх металевих поверхнях"
+		},
+		"specification": {
+			"en": {
+				"text": "Bottle type: Treated HDPE Plastic. Cap type: Twist Open/Close, Dispensing Cap with/ foam gasket seal. ",
+				"url": "Oil_guide-en.png"
+			},
+			"ua": {
+				"text": "Тип пляшки: оброблений пластик HDPE. Тип ковпачка: Поворотне відкриття/закриття, ковпачок дозування з ущільнювачем із пінопласту.",
+				"url": "Oil_guide-ua.png"
+			}
+		},
+		"description": {
+			"en": "It has a neutral acid-base environment. Due to its penetrating properties, it cleans and neutralizes the residues of combustion products after the shot as well as protects against corrosion and weathering. Provides the necessary sliding on all metal surfaces, including all types of small and large caliber weapons. Neutral pH level. The grease is effective at extreme temperatures from -40 °C to +200 °C.",
+			"ua": "За рахунок відмінних властивостей проникнення, очищає та нейтралізує залишки продуктів горіння після пострілу, захищає від корозії та атмосферного впливу. Забезпечує необхідне ковзання на металевих поверхнях, в тому числі на всіх видах зброї малого та великого калібру. Нейтральний рівень pH. Мастило є ефективним при екстремальних температурах - 40 С° – +200 С°."
+		},
+		"useTo": {
+			"en": "Unload the weapon. Cleaning: Apply the oil to the surface to be cleaned and leave it for a while. Then clean with conventional means and remove any remaining dirt. If stubborn dirt is present, use special products from the DayPatron range to clean it. Lubrication: Apply oil to the surfaces to be treated, leave it on for a while, and then remove any residual lubricant with patches.",
+			"ua": "Розрядіть зброю. Чищення: Нанесіть мастило на поверхню, яка очищується, та залиште його подіяти протягом деякого часу. Потім проведіть чистку звичайними засобами і видаліть залишки бруду. Якщо присутні стійкі забруднення, використовуйте спеціальні засоби з лінійки DayPatron. Змащення: Нанесіть мастило на оброблювані поверхні, залиште його подіяти на деякий час, а потім видаліть залишки мастила за допомогою патчів, серветок або ганчір’я."
+		},
+		"image": [
+			{ "url": "Neutral-Synthetic-Oil-100ml.png" },
+			{ "url": "Neutral-Synthetic-Oil-100ml-side.png" },
+			{ "url": "Neutral-Synthetic-Oil-100ml-back.png" },
+			{ "url": "Neutral-Synthetic-Oil-250ml.png" },
+			{ "url": "Neutral-Synthetic-Oil-250ml-back.png" },
+			{ "url": "Neutral-Synthetic-Oil-500ml.png" },
+			{ "url": "Neutral-Synthetic-Oil-500ml-back.png" },
+			{ "url": "oil-drop.png" },
+			{ "url": "throat.png" }
+		],
 
-    "volume": {
-      "en": ["100 ml", "250 ml", "500 ml", "1L", "5L", "10L", "20L"],
-      "ua": ["100 мл", "250 мл", "500 мл", "1Л", "5Л", "10Л", "20Л"]
-    },
-    "benefits": {
-      "en": [
-        "reduces friction",
-        "prevents wear",
-        "prevents rust/corrosian",
-        "maximal smooth sliding on all metal surfaces",
-        "neutral pH level",
-        "displaces moisture",
-        " -40°C to +200°C"
-      ],
-      "ua": [
-        "зменшує тертя",
-        "запобігає зноcу",
-        "запобігає іржі/корозії",
-        "максимально плавне ковзання по всіх металевих поверхнях",
-        "нейтральний рівень pH",
-        "витісняє вологу",
-        "-40°C до +200°C."
-      ]
-    },
-    "ingredients": {
-      "en": "Synthetic grease, cleaning and anti-corrosion additives.",
-      "ua": "Синтетичне мастило, очищаючі та антикорозійні присадки."
-    },
-    "shelfLife": {
-      "en": "5 years. Date of manufacture on the label.",
-      "ua": "5 років. Дата виготовлення зазначена на етикетці."
-    },
-    "faq": {
-      "question_1": {
-        "en": {
-          "Q": "Can I use Neutral synthetic oil for long term storage?",
-          "A": "No, Neutral Synthetic Oil is designed for use inside of the bore on moving part to reduce friction and wear. For long term storage, use DayPatron Rust Protection to protect against rust and corrosion for extended periods."
-        },
-        "ua": {
-          "Q": "чи можу я використовувати нейтральну синтетичну оливу для тривалого зберігання?",
-          "A": "Ні, нейтральне синтетичне масло призначене для використання всередині отвору на рухомій частині для зменшення тертя та зносу. Для тривалого зберігання використовуйте DayPatron Rust Protection для захисту від іржі та корозії протягом тривалого часу."
-        }
-      },
-      "question_2": {
-        "en": {
-          "Q": "Can I use Neutral synthetic oil for long term storage?",
-          "A": "No, Neutral Synthetic Oil is designed for use inside of the bore on moving part to reduce friction and wear. For long term storage, use DayPatron Rust Protection to protect against rust and corrosion for extended periods."
-        },
-        "ua": {
-          "Q": "чи можу я використовувати нейтральну синтетичну оливу для тривалого зберігання?",
-          "A": "Ні, нейтральне синтетичне масло призначене для використання всередині отвору на рухомій частині для зменшення тертя та зносу. Для тривалого зберігання використовуйте DayPatron Rust Protection для захисту від іржі та корозії протягом тривалого часу."
-        }
-      },
-      "question_3": {
-        "en": {
-          "Q": "Can I use Neutral synthetic oil for long term storage?",
-          "A": "No, Neutral Synthetic Oil is designed for use inside of the bore on moving part to reduce friction and wear. For long term storage, use DayPatron Rust Protection to protect against rust and corrosion for extended periods."
-        },
-        "ua": {
-          "Q": "чи можу я використовувати нейтральну синтетичну оливу для тривалого зберігання?",
-          "A": "Ні, нейтральне синтетичне масло призначене для використання всередині отвору на рухомій частині для зменшення тертя та зносу. Для тривалого зберігання використовуйте DayPatron Rust Protection для захисту від іржі та корозії протягом тривалого часу."
-        }
-      },
-      "question_4": {
-        "en": {
-          "Q": "Can I use Neutral synthetic oil for long term storage?",
-          "A": "No, Neutral Synthetic Oil is designed for use inside of the bore on moving part to reduce friction and wear. For long term storage, use DayPatron Rust Protection to protect against rust and corrosion for extended periods."
-        },
-        "ua": {
-          "Q": "чи можу я використовувати нейтральну синтетичну оливу для тривалого зберігання?",
-          "A": "Ні, нейтральне синтетичне масло призначене для використання всередині отвору на рухомій частині для зменшення тертя та зносу. Для тривалого зберігання використовуйте DayPatron Rust Protection для захисту від іржі та корозії протягом тривалого часу."
-        }
-      }
-    },
-    "category": "Oil",
-    "tradeMarkImage": "oil_tr.svg"
-  },
-  {
-    "id": 3,
-    "article": 780260,
-    "linkName": "rust-protection",
-    "name": {
-      "en": "Rust Protection",
-      "ua": "Захист від іржі та корозії"
-    },
-    "UTP": {
-      "en": "Long Term Storage",
-      "ua": "Tривале Зберігання"
-    },
-    "specification": {
-      "en": {
-        "text": "Rust protection, neutral acid-alkaline environment, lubrication",
-        "url": "Oil_guide-en.png"
-      },
-      "ua": {
-        "text": "Захист від іржі та корозії, Нейтральне кислотно-лужне середовище, змащування",
-        "url": "Oil_guide-ua.png"
-      }
-    },
-    "description": {
-      "en": "Unique product designed for long-term protection in adverse conditions and use in humid and salty air environments on metal surfaces of all types of rifled and smoothbore small and large caliber firearms. Quickly displaces moisture from surfaces, neutralizes the effects of acids, provides a protective layer, prevents corrosion. Forms a dry wax film. Creates a neutral acid-alkaline environment. Does not harm plastic and rubber materials. Maintains its properties at extreme temperatures. Odorless. Outdoor protection lasts 6-8 months, indoors 12-15 months.",
-      "ua": "Унікальний засіб, призначений для захисту при тривалому зберіганні в несприятливих умовах, та застосування в умовах вологого та солоного повітря, на металевих поверхнях всіх видах нарізної та гладкоствольної зброї малого та великого калібру. Швидко витісняє вологу з поверхонь, нейтралізує дію кислот, покриває захисним шаром, запобігає появі корозії. Створює суху воскову плівку. Утворює нейтральне кислотно-лужне середовище. Не шкодить пластмасовим та гумовим матеріалам. Не втрачає своїх властивостей при екстремальних температурах. Без запаху. Захист на вулиці 6-8 міс, в приміщенні 12-15 місяців."
-    },
-    "useTo": {
-      "en": "Unload the weapon. Before use, clean the surfaces to be treated with DayPatron cleaners. Apply a thin layer of grease to the surface and leave it for several minutes to absorb. Remove any residue with dry patches, wipes or cloths. Before the shot, open the barrel.",
-      "ua": "Розрядіть зброю. Перед застосуванням, очистіть обробляємі ділянки очисними засобами DayPatron. Нанесіть засіб тонким шаром, на поверхню, дайте йому подіяти декілька хвилин. Видаліть залишки за допомогою сухих патчів, серветок або ганчір’я. Перед пострілом, розконсервувати канал ствола."
-    },
-    "image": [
-      { "url": "Rust-Protection-100ml.png" },
-      { "url": "Rust-Protection-100ml-side.png" },
-      { "url": "Rust-Protection-100ml-back.png" },
-      { "url": "Rust-Protection-250ml.png" },
-      { "url": "Rust-Protection-250ml-back.png" },
-      { "url": "Rust-Protection-500ml.png" },
-      { "url": "Rust-Protection-500ml-back.png" },
-      { "url": "oil-drop.png" },
-      { "url": "throat.png" }
-    ],
+		"volume": {
+			"en": ["100 ml", "250 ml", "500 ml", "1L", "5L", "10L", "20L"],
+			"ua": ["100 мл", "250 мл", "500 мл", "1Л", "5Л", "10Л", "20Л"]
+		},
+		"benefits": {
+			"en": [
+				"Reduces friction",
+				"Prevents wear",
+				"Prevents rust/corrosian",
+				"Maximal smooth sliding on all metal surfaces",
+				"Neutral pH level",
+				"Displaces moisture",
+				" -40°C to +200°C"
+			],
+			"ua": [
+				"Зменшує тертя",
+				"Запобігає зноcу",
+				"Запобігає іржі/корозії",
+				"Максимально плавне ковзання по всіх металевих поверхнях",
+				"Нейтральний рівень pH",
+				"Витісняє вологу",
+				"-40°C до +200°C."
+			]
+		},
+		"ingredients": {
+			"en": "Synthetic grease, cleaning and anti-corrosion additives.",
+			"ua": "Синтетичне мастило, очищаючі та антикорозійні присадки."
+		},
+		"shelfLife": {
+			"en": "5 years. Date of manufacture on the label.",
+			"ua": "5 років. Дата виготовлення зазначена на етикетці."
+		},
+		"faq": {
+			"question_1": {
+				"en": {
+					"Q": "Can I use 'Neutral synthetic' oil for long term storage?",
+					"A": "No, 'Neutral Synthetic Oil' is designed for use inside of the bore on moving part to reduce friction and wear. For long term storage, use 'Universal oil CLP 3 in 1' or 'Rust Protection' to protect against rust and corrosion for extended periods."
+				},
+				"ua": {
+					"Q": "Чи можу я використовувати 'Нейтральне, синтетичне мистило' для тривалого зберігання?",
+					"A": "Ні, 'Нейтральне синтетичне масло' призначене для використання всередині отвору на рухомій частині для зменшення тертя, зносу та короткострокового захисту від корозії. Для тривалого зберігання використовуйте 'Захист від іржі та корозії' або 'Універсальне мастило CLP 3 в 1' для захисту від іржі та корозії протягом тривалого часу."
+				}
+			},
+			"question_2": {
+				"en": {
+					"Q": "When should I use 'Neutral Synthetic oil' instead of 'Rust and Corrosion Protection' or 'Universal CLP 3 in 1 Oil'?",
+					"A": "'Neutral Synthetic oil' is primarily designed for lubrication and is recommended for internal use in the barrel and moving parts, particularly effective in extreme temperatures. 'Rust and Corrosion Protection' is recommended for use on the external surface of firearms to protect against rust and corrosion long-term. 'Universal CLP 3 in 1 oil' is recommended as an all-in-one cleaning, lubricating, and protecting agent, which removes deposits, provides lubrication, and enhanced rust and corrosion protection."
+				},
+				"ua": {
+					"Q": "Коли мені потрібно використовувати 'Нейтральне синтетичне мастило' замість 'Захисту від іржі та корозії' або 'Універсальне мастило CLP 3 в 1'?",
+					"A": "'Нейтральне синтетичне мастило' призначене переважно для змащування і рекомендується для внутрішнього застосування у стволі та на рухомих частинах, особливо ефективне при роботі в екстремальних температурах. 'Захист від іржі та коррозії' - рекомендується для використання на зовнішній поверхні вогнепальної зброї для захисту від ржавчини та корозії на тривалий термін. 'Універсальне мастило CLP 3 в 1' - рекомендується як засіб для одного етапу очищення, змащування та захисту, який видаляє відкладення, забезпечує змащування та покращений захист від ржавчини та корозії."
+				}
+			}
+		},
+		"category": "Oil",
+		"tradeMarkImage": "oil_tr.svg"
+	},
+	{
+		"id": 3,
+		"article": "DP600100, DP600250, DP600500",
+		"linkName": "rust-protection",
+		"name": {
+			"en": "Rust Protection",
+			"ua": "Захист від іржі та корозії"
+		},
+		"UTP": {
+			"en": "Long term storage",
+			"ua": "Tривале зберігання"
+		},
+		"specification": {
+			"en": {
+				"text": "Bottle type: Treated HDPE Plastic. Cap type: Twist Open/Close, Dispensing Cap with/ foam gasket seal. ",
+				"url": "Oil_guide-en.png"
+			},
+			"ua": {
+				"text": "Тип пляшки: оброблений пластик HDPE. Тип ковпачка: Поворотне відкриття/закриття, ковпачок дозування з ущільнювачем із пінопласту.",
+				"url": "Oil_guide-ua.png"
+			}
+		},
+		"description": {
+			"en": "A unique product designed for long-term protection in adverse conditions and for use in humid and salty air environments, on metal surfaces of all types of small and large caliber firearms. It rapidly displaces moisture from surfaces, neutralizes acid action, covers with a protective wax layer, and prevents corrosion. It creates a neutral acid-alkaline environment. It does not harm plastic and rubber materials. It does not lose its properties at extreme temperatures. Odorless. Outdoor protection lasts 6-8 months, indoor protection lasts 12-15 months.",
+			"ua": "Унікальний засіб, призначений для захисту при тривалому зберіганні  в несприятливих умовах, та застосування в умовах вологого та солоного повітря, на металевих поверхнях всіх видах нарізної та гладкоствольної зброї малого та великого калібру. Швидко витісняє вологу з поверхонь, нейтралізує дію кислот, покриває захисним Восковим шаром, запобігає появі корозії. Утворює нейтральне кислотно-лужне середовище. Не шкодить пластмасовим та гумовим матеріалам. Не втрачає своїх властивостей при екстремальних температурах. Без запаху. Захист на вулиці 6-8 міс, в приміщенні 12-15 місяців."
+		},
+		"useTo": {
+			"en": "Unload the weapon. Before use, clean the surfaces to be treated with DayPatron cleaners. Apply a thin layer of grease to the surface and leave it for several minutes to absorb. Remove any residue with dry patches, wipes or cloths. Before the shot, open the barrel.",
+			"ua": "Розрядіть зброю. Перед застосуванням, очистіть обробляємі ділянки очисними засобами DayPatron. Взбовтайте флакон, та нанесіть засіб тонким шаром, на поверхню, дайте йому подіяти декілька хвилин. Видаліть залишки за допомогою сухих патчів, серветок або ганчір’я. Перед пострілом, розконсервувати канал ствола."
+		},
+		"image": [
+			{ "url": "Rust-Protection-100ml.png" },
+			{ "url": "Rust-Protection-100ml-side.png" },
+			{ "url": "Rust-Protection-100ml-back.png" },
+			{ "url": "Rust-Protection-250ml.png" },
+			{ "url": "Rust-Protection-250ml-back.png" },
+			{ "url": "Rust-Protection-500ml.png" },
+			{ "url": "Rust-Protection-500ml-back.png" },
+			{ "url": "oil-drop.png" },
+			{ "url": "throat.png" }
+		],
 
-    "volume": {
-      "en": ["100 ml", "250 ml", "500 ml", "1L", "5L", "10L", "20L"],
-      "ua": ["100 мл", "250 мл", "500 мл", "1Л", "5Л", "10Л", "20Л"]
-    },
-    "benefits": {
-      "en": [
-        "prevents wear",
-        "prevents rust/corrosian",
-        "neutralizes acidic residues",
-        "long term storage",
-        "displaces moisture",
-        "forms a dry wax film",
-        "does not harm plastic and rubber materials"
-      ],
-      "ua": [
-        "запобігає зноcу",
-        "запобігає іржі/корозії",
-        "нейтралізує кислотні залишки",
-        "тривале зберігання",
-        "витісняє вологу",
-        "cтворює суху воскову плівку",
-        "не шкодить пластмасовим та гумовим матеріалам"
-      ]
-    },
-    "ingredients": {
-      "en": "Hydrocarbons C10-C13, n-alkanes, isoalkanes, aromatic fatty acids, corrosion additives.",
-      "ua": "Вуглеводні С10-С13, н-алкани, ізоалкани, ароматичні жирні кислоти, корозійні присадки."
-    },
-    "shelfLife": {
-      "en": "5 years. Date of manufacture on the label.",
-      "ua": "5 років. Дата виготовлення зазначена на етикетці."
-    },
-    "faq": {
-      "question_1": {
-        "en": {
-          "Q": "Can I use Neutral synthetic oil for long term storage?",
-          "A": "No, Neutral Synthetic Oil is designed for use inside of the bore on moving part to reduce friction and wear. For long term storage, use DayPatron Rust Protection to protect against rust and corrosion for extended periods."
-        },
-        "ua": {
-          "Q": "чи можу я використовувати нейтральну синтетичну оливу для тривалого зберігання?",
-          "A": "Ні, нейтральне синтетичне масло призначене для використання всередині отвору на рухомій частині для зменшення тертя та зносу. Для тривалого зберігання використовуйте DayPatron Rust Protection для захисту від іржі та корозії протягом тривалого часу."
-        }
-      },
-      "question_2": {
-        "en": {
-          "Q": "Can I use Neutral synthetic oil for long term storage?",
-          "A": "No, Neutral Synthetic Oil is designed for use inside of the bore on moving part to reduce friction and wear. For long term storage, use DayPatron Rust Protection to protect against rust and corrosion for extended periods."
-        },
-        "ua": {
-          "Q": "чи можу я використовувати нейтральну синтетичну оливу для тривалого зберігання?",
-          "A": "Ні, нейтральне синтетичне масло призначене для використання всередині отвору на рухомій частині для зменшення тертя та зносу. Для тривалого зберігання використовуйте DayPatron Rust Protection для захисту від іржі та корозії протягом тривалого часу."
-        }
-      },
-      "question_3": {
-        "en": {
-          "Q": "Can I use Neutral synthetic oil for long term storage?",
-          "A": "No, Neutral Synthetic Oil is designed for use inside of the bore on moving part to reduce friction and wear. For long term storage, use DayPatron Rust Protection to protect against rust and corrosion for extended periods."
-        },
-        "ua": {
-          "Q": "чи можу я використовувати нейтральну синтетичну оливу для тривалого зберігання?",
-          "A": "Ні, нейтральне синтетичне масло призначене для використання всередині отвору на рухомій частині для зменшення тертя та зносу. Для тривалого зберігання використовуйте DayPatron Rust Protection для захисту від іржі та корозії протягом тривалого часу."
-        }
-      },
-      "question_4": {
-        "en": {
-          "Q": "Can I use Neutral synthetic oil for long term storage?",
-          "A": "No, Neutral Synthetic Oil is designed for use inside of the bore on moving part to reduce friction and wear. For long term storage, use DayPatron Rust Protection to protect against rust and corrosion for extended periods."
-        },
-        "ua": {
-          "Q": "чи можу я використовувати нейтральну синтетичну оливу для тривалого зберігання?",
-          "A": "Ні, нейтральне синтетичне масло призначене для використання всередині отвору на рухомій частині для зменшення тертя та зносу. Для тривалого зберігання використовуйте DayPatron Rust Protection для захисту від іржі та корозії протягом тривалого часу."
-        }
-      }
-    },
-    "category": "Oil",
-    "tradeMarkImage": "protect_tr.svg"
-  },
-  {
-    "id": 4,
-    "article": 780260,
-    "linkName": "carbon-killer",
-    "name": {
-      "en": "Carbon Killer",
-      "ua": "Знищувач нагару"
-    },
-    "UTP": {
-      "en": "Remove Carbon Deposits, Plastic, and old Oil",
-      "ua": "Усуває Залишки Карбону, Пластику та старого Мастила"
-    },
-    "specification": {
-      "en": {
-        "text": "Rust protection, neutral acid-alkaline environment, lubrication",
-        "url": "Chemical_guide-en.png"
-      },
-      "ua": {
-        "text": "Захист від іржі та корозії, Нейтральне кислотно-лужне середовище, змащування",
-        "url": "Chemical_guide-ua.png"
-      }
-    },
-    "description": {
-      "en": "This is a new standard for high-performance cleaners that instantly remove carbon deposits, plastic, and copper fouling, as well as lubricants and grease in barrels, chambers, gas pistons, choke tubes, and more, in all types of small and large caliber firearms, both rifled and smoothbore. It is safe to use in stainless steel and other types of barrels. Effectively neutralizes all corrosive residues, providing short-term corrosion prevention. Ideal for any place with heavy carbon fouling. It eliminates mechanical malfunctions, extractor issues, jamming, gas pistons, and more. It is odorless, non-flammable, non-toxic, and biodegradable.",
-      "ua": "Це новий стандарт високопродуктивних очищувачів, які миттєво усувають залишки карбонових відкладень, пластику та томпаку, мастила та змазки в стволі, затворах, газових поршнях, змінних насадках і т.д., у всіх видах нарізної та гладкоствольної зброї малого та великого калібру. Безпечний для використання в стволах з нержавіючої сталі та інших типів. Ефективно нейтралізує всі корозійні залишки, короткостроково запобігаючи появі корозії. Ідеально підходить для будь-яких місць, де є сильні карбонові забруднення. Усуває затримки механізмів, екстракторів, запобіжників, газових поршнів і т.д. Не має запаху, не горить, нетоксичний та біорозкладний."
-    },
-    "useTo": {
-      "en": "Unload the weapon. Run 3-4 patches soaked in the carbon remover through the barrel. Make 10-15 passes with a cleaning rod soaked in the solution and leave for 3-5 minutes. Repeat the first step until the patches come out clean, then run 3 dry patches and lubricate with DayPatron Neutral Synthetic Oil. For long-term storage, use DayPatron Rust Protection.",
-      "ua": "Розрядіть зброю. Проженіть через ствол по черзі 3-4 патчі, змочених Carbon Killer. Зробіть від 10 до 15 проходів йоржиком, змоченим у Carbon Killer і залиште у стволі на 3-5 хвилин. Проженіть через ствол по черзі 3-4 патчі, змочених засобом, поки вони не виходитимуть чистими. Після проженіть 3 сухих патчі і змастіть нейтральним мастилом DayPatron. Для тривалого зберігання або за несприятливих умов використовуйте консерваційне мастило з лінійки засобів DayPatron."
-    },
-    "image": [
-      { "url": "Carbon-Killer-100ml.png" },
-      { "url": "Carbon-Killer-100ml-side.png" },
-      { "url": "Carbon-Killer-100ml-back.png" },
-      { "url": "Carbon-Killer-250ml.png" },
-      { "url": "Carbon-Killer-250ml-back.png" },
-      { "url": "Carbon-Killer-500ml.png" },
-      { "url": "Carbon-Killer-500ml-back.png" },
-      { "url": "oil-drop.png" },
-      { "url": "throat.png" }
-    ],
+		"volume": {
+			"en": ["100 ml", "250 ml", "500 ml", "1L", "5L", "10L", "20L"],
+			"ua": ["100 мл", "250 мл", "500 мл", "1Л", "5Л", "10Л", "20Л"]
+		},
+		"benefits": {
+			"en": [
+				"Prevents wear",
+				"Prevents rust/corrosian",
+				"Neutralizes acidic residues",
+				"Long term storage",
+				"Displaces moisture",
+				"Forms a dry wax film",
+				"Does not harm plastic and rubber materials"
+			],
+			"ua": [
+				"Запобігає зноcу",
+				"Запобігає іржі/корозії",
+				"Нейтралізує кислотні залишки",
+				"Тривале зберігання",
+				"Витісняє вологу",
+				"Створює суху воскову плівку",
+				"Не шкодить пластмасовим та гумовим матеріалам"
+			]
+		},
+		"ingredients": {
+			"en": "Hydrocarbons C10-C13, n-alkanes, isoalkanes, aromatic fatty acids, corrosion additives.",
+			"ua": "Вуглеводні С10-С13, н-алкани, ізоалкани, ароматичні жирні кислоти, корозійні присадки."
+		},
+		"shelfLife": {
+			"en": "5 years. Date of manufacture on the label.",
+			"ua": "5 років. Дата виготовлення зазначена на етикетці."
+		},
+		"faq": {
+			"question_1": {
+				"en": {
+					"Q": "When should I use 'Rust Protection' instead of 'Neutral Synthetic Oil'?",
+					"A": "'Rust Protection' is primarily recommended for use on the exterior of firearms to protect against rust and corrosion. It is ideal for external usage as it provides a specific barrier that protects your firearm. 'Neutral Synthetic Oil' also protects against rust and corrosion but is also a lubricant and primarily recommended for internal use in the bore and on moving parts."
+				},
+				"ua": {
+					"Q": "Коли мені слід використовувати 'Захист від іржі та корозії' замість 'Нейтральне синтетичне мастило' ?",
+					"A": "'Захист від іржі та корозії' рекомендується головним чином для використання на зовнішній стороні вогнепальної зброї для захисту від ржавчини та корозії . Це ідеально підходить для зовнішнього використання, оскільки воно забезпечує специфічний бар'єр, який захищає вашу зброю. 'Нейтральне синтетичне мастило', також захищає від ржавчини та корозії, але воно також є змащувальним і в основному рекомендується для внутрішнього використання в стволі та на рухомих частинах."
+				}
+			},
+			"question_2": {
+				"en": {
+					"Q": "Can 'Rust Protection' be used inside my bore?",
+					"A": "Yes, 'Rust Protection' can be safely used inside your bore to protect against rust and corrosion for an extended period."
+				},
+				"ua": {
+					"Q": "Чи можна використовувати 'Захист від іржі та корозії' всередині стволу?",
+					"A": "Так, 'Захист від іржі та корозії' можна безпечно використовувати всередині стволу для захисту від ржавчини та корозії на тривалий час."
+				}
+			},
+			"question_3": {
+				"en": {
+					"Q": "Is 'Rust Protection' a lubricant?",
+					"A": "We do not recommend using 'Rust Protection' as a lubricant. For this application, we recommend our lubricant, 'Universal ' or Neutral Synthetic Oil."
+				},
+				"ua": {
+					"Q": "Чи є Rust Protection змащувальним засобом?",
+					"A": "Ми не рекомендуємо використовувати  Rust Protection як змащувальний засіб. Для цього застосування ми рекомендуємо наше мастило CLP або Neutral Synthetic Oil."
+				}
+			}
+		},
+		"category": "Oil",
+		"tradeMarkImage": "protect_tr.svg"
+	},
+	{
+		"id": 4,
+		"article": "DP300100, DP300250, DP300500",
+		"linkName": "carbon-killer",
+		"name": {
+			"en": "Carbon Killer",
+			"ua": "Знищувач нагару"
+		},
+		"UTP": {
+			"en": "Remove сarbon deposits, plastic, and old oil",
+			"ua": "Усуває залишки карбону, пластику та старого мастила"
+		},
+		"specification": {
+			"en": {
+				"text": "Bottle type: Treated HDPE Plastic. Cap type: Twist Open/Close, Dispensing Cap with/ foam gasket seal. ",
+				"url": "Chemical_guide-en.png"
+			},
+			"ua": {
+				"text": "Тип пляшки: оброблений пластик HDPE. Тип ковпачка: Поворотне відкриття/закриття, ковпачок дозування з ущільнювачем із пінопласту.",
+				"url": "Chemical_guide-ua.png"
+			}
+		},
+		"description": {
+			"en": "This is a new standard for high-performance cleaners that instantly remove carbon deposits, plastic, and copper fouling, as well as lubricants and grease in barrels, chambers, gas pistons, choke tubes, and more, in all types of small and large caliber firearms, both rifled and smoothbore. It is safe to use in stainless steel and other types of barrels. Effectively neutralizes all corrosive residues, providing short-term corrosion prevention. Ideal for any place with heavy carbon fouling. It eliminates mechanical malfunctions, extractor issues, jamming, gas pistons, and more. It is odorless, non-flammable, non-toxic, and biodegradable.",
+			"ua": "Це новий стандарт високопродуктивних очищувачів, які миттєво усувають залишки карбонових відкладень, пластику та томпаку, мастила та змазки в стволі, затворах, газових поршнях, змінних насадках і т.д., у всіх видах нарізної та гладкоствольної зброї малого та великого калібру. Безпечний для використання в стволах з нержавіючої сталі та інших типів. Ефективно нейтралізує всі корозійні залишки, короткостроково запобігаючи появі корозії. Ідеально підходить для будь-яких місць, де є сильні карбонові забруднення. Усуває затримки механізмів, екстракторів, запобіжників, газових поршнів і т.д. Не має запаху, не горить, нетоксичний та біорозкладний."
+		},
+		"useTo": {
+			"en": "Unload the weapon. Run 3-4 patches soaked in the Carbon Killer through the barrel. Make 10-15 passes with a cleaning rod soaked in the solution and leave for 3-5 minutes. Repeat the first step until the patches come out clean, then run 3 dry patches and lubricate with DayPatron Neutral Synthetic Oil. For long-term storage, use DayPatron Rust Protection.",
+			"ua": "Розрядіть зброю. Проженіть через ствол по черзі 3-4 патчі, змочених 'Знищувач міді'. Зробіть від 10 до 15 проходів йоржиком, змоченим у 'Знищувач міді' і залиште у стволі на 3-5 хвилин. Проженіть через ствол по черзі 3-4 патчі, змочених засобом, поки вони не виходитимуть чистими. Після проженіть 3 сухих патчі і змастіть нейтральним мастилом DayPatron. Для тривалого зберігання або за несприятливих умов використовуйте консерваційне мастило з лінійки засобів DayPatron."
+		},
+		"image": [
+			{ "url": "Carbon-Killer-100ml.png" },
+			{ "url": "Carbon-Killer-100ml-side.png" },
+			{ "url": "Carbon-Killer-100ml-back.png" },
+			{ "url": "Carbon-Killer-250ml.png" },
+			{ "url": "Carbon-Killer-250ml-back.png" },
+			{ "url": "Carbon-Killer-500ml.png" },
+			{ "url": "Carbon-Killer-500ml-back.png" },
+			{ "url": "clean-drop.png" },
+			{ "url": "throat.png" }
+		],
 
-    "volume": {
-      "en": ["100 ml", "250 ml", "500 ml", "1L", "5L", "10L", "20L"],
-      "ua": ["100 мл", "250 мл", "500 мл", "1Л", "5Л", "10Л", "20Л"]
-    },
-    "benefits": {
-      "en": [
-        "unique formula",
-        "odorless",
-        "non-toxic",
-        "biodegradable",
-        "contains no Ammonia",
-        "non-flammable",
-        "remove carbon deposits, plastic, and old oil",
-        "short term rust preventative"
-      ],
-      "ua": [
-        "унікальна формула",
-        "без запаху",
-        "нетоксичний",
-        "біорозкладний",
-        "не містить аміаку",
-        "негорючий",
-        "усуває залишки карбону, пластику та старого мастила",
-        "короткостроковий захист від іржі"
-      ]
-    },
-    "ingredients": {
-      "en": "A mixture of aromatic organic acids, anionic surfactants <5%, amino alcohols, organic compounds of the lactam class.",
-      "ua": "Суміш ароматичних органічних кислот, аніонні ПАР<5%, аміноспирти, органічні сполуки класу лактамів."
-    },
-    "shelfLife": {
-      "en": "5 years. Date of manufacture on the label.",
-      "ua": "5 років. Дата виготовлення зазначена на етикетці."
-    },
-    "faq": {
-      "question_1": {
-        "en": {
-          "Q": "What is the difference in cleaners between Carbon Killer and Liquidator?",
-          "A": "The Carbon Killer is recommended for extreme carbon fouling situations, such as AR bolt/bolt carriers, revolver cylinders, or neglected barrels. It specifically removes carbon fouling only. The Liquidator removes both carbon and copper fouling and is recommended for most regular fouling situations."
-        },
-        "ua": {
-          "Q": "Яка різниця в очищувачах між Знищувачем нагару та Ліквідатором?",
-          "A": "Знищувач нагара рекомендується для екстремальних ситуацій із забрудненням вуглецем, таких як затвір та затвірна рама AR, циліндри револьверів чи занедбані стволи. Він спеціально видаляє лише вуглецеві забруднення. Очісник ствола Ліквідатор видаляє як вуглецеві, так і мідні забруднення і рекомендується для більшості звичайних випадків забруднення."
-        }
-      },
-      "question_2": {
-        "en": {
-          "Q": "Does Carbon Killer contain ammonia or any other barrel-damaging components?",
-          "A": "No, Carbon Killer is 100% safe for your barrel."
-        },
-        "ua": {
-          "Q": "Чи містить Знищувач нагара аміак або інші компоненти, що можуть пошкодити ствол?",
-          "A": "Ні, Знищувач нагара на 100% безпечний для ствола."
-        }
-      },
-      "question_3": {
-        "en": {
-          "Q": "Can Carbon Killer be used as a lubricant?",
-          "A": "No, Carbon Killer is a cleaner, not a lubricant. Use DayPatron Neutral synthetic oil or Universal oil CLP 3 in 1 for superior lubrication."
-        },
-        "ua": {
-          "Q": "Чи можна використовувати Знищувач нагара як мастило?",
-          "A": "Ні, Знищувач нагара - це очисник, а не мастило. Використовуйте синтетичне масло DayPatron Нейтральне синтетичне мастило або Універсальне мастило CLP 3 в 1 для відмінного змащування."
-        }
-      },
-      "question_4": {
-        "en": {
-          "Q": "Can Carbon Killer be used on the outside of my rifle barrel?",
-          "A": "Yes, Carbon Killer can be safely used on the outside of a rifle barrel to remove carbon fouling. Once finished cleaning, be sure to wipe the cleaned area dry and apply DayPatron Rust Protection."
-        },
-        "ua": {
-          "Q": "Чи можна використовувати Знищувач нагару із зовнішнього боку ствола моєї рушниці?",
-          "A": "Так, Знищувач нагару можна безпечно використовувати на зовнішній стороні ствола рушниці для видалення вуглецевого забруднення. Після завершення очищення, обов'язково витріть очищену ділянку насухо та нанесіть DayPatron Захист від іржі та корозії."
-        }
-      }
-    },
-    "category": "Cleaner",
-    "tradeMarkImage": "cleaner_tr.svg"
-  },
-  {
-    "id": 5,
-    "article": 780260,
-    "linkName": "copper-killer",
-    "name": {
-      "en": "Copper Killer",
-      "ua": "Знищувач міді"
-    },
-    "UTP": {
-      "en": "Removes Copper and its Compounds",
-      "ua": "Видаляє відкладення Mіді та її Cполуки"
-    },
-    "specification": {
-      "en": {
-        "text": "Rust protection, neutral acid-alkaline environment, lubrication",
-        "url": "Chemical_guide-en.png"
-      },
-      "ua": {
-        "text": "Захист від іржі та корозії, Нейтральне кислотно-лужне середовище, змащування",
-        "url": "Chemical_guide-ua.png"
-      }
-    },
-    "description": {
-      "en": "It instantly reacts and removes copper and its compounds after firing in all types of small and large caliber firearms. Effectively neutralizes any corrosive residues, providing short-term prevention of rust and corrosion. Safe for use in barrels made of stainless steel and other materials. It does not react with the metals used in firearms. It has a unique formula that is non-flammable, without ammonia or odor, non-toxic, and biodegradable.",
-      "ua": "Mиттєво вступає в реакцію і видаляє відкладення міді та її сполуки після пострілу, у всіх типах зброї, малого та великого калібру. Ефективно нейтралізує будь-які корозійні залишки, короткостроково запобігаючи появі іржі та корозії. Безпечний для використання в стволах з нержавіючої сталі та інших типів. Не вступає в реакцію з металами з яких виготовлена зброя. Унікальна формула, яка не горить, без аміаку та запаху, нетоксична та біорозкладна."
-    },
-    "useTo": {
-      "en": "IMPORTANT! The product is intended for use only inside the barrel channel. Unload the weapon. Run 3-4 patches soaked in the product Make 10-15 passes with a nylon brush moistened with the product and leave for 3-5 minutes. Run the wet patches again until they are clean. Then run 2-3 dry patches and lubricate with DayPatron Neutral Synthetic Oil. For long-term storage, apply DayPatron Rust Protection product.",
-      "ua": "ВАЖЛИВО! Засіб призначений лише для застосування всередині каналу ствола. Розрядіть зброю. Проженіть через ствол 3-4 патчі, змочених засобом Copper Killer. Зробіть 10-15 проходів шомполом з нейлоновим йоржиком, змоченим засобом і залиште подіяти на 3-5 хвилин. Проженіть знов через ствол змочені патчі, поки вони не виходитимуть чистими, якщо є забруднення на патчі буде кольорова індикація. Потім проженіть 2-3 сухих патчі і змастіть нейтральним мастилом DayPatron. Для тривалого зберігання, або за несприятливих погодних умов, застосовуйте консерваційне мастило DayPatron."
-    },
-    "image": [
-      { "url": "Copper-Killer-100ml.png" },
-      { "url": "Copper-Killer-100ml-side.png" },
-      { "url": "Copper-Killer-100ml-back.png" },
-      { "url": "Copper-Killer-250ml.png" },
-      { "url": "Copper-Killer-250ml-back.png" },
-      { "url": "Copper-Killer-500ml.png" },
-      { "url": "Copper-Killer-500ml-back.png" },
-      { "url": "oil-drop.png" },
-      { "url": "throat.png" }
-    ],
+		"volume": {
+			"en": ["100 ml", "250 ml", "500 ml", "1L", "5L", "10L", "20L"],
+			"ua": ["100 мл", "250 мл", "500 мл", "1Л", "5Л", "10Л", "20Л"]
+		},
+		"benefits": {
+			"en": [
+				"Unique formula",
+				"Odorless",
+				"Non-toxic",
+				"Biodegradable",
+				"Contains no Ammonia",
+				"Non-flammable",
+				"Remove carbon deposits, plastic, and old oil",
+				"Short term rust preventative"
+			],
+			"ua": [
+				"Унікальна формула",
+				"Без запаху",
+				"Нетоксичний",
+				"Біорозкладний",
+				"Не містить аміаку",
+				"Негорючий",
+				"Усуває залишки карбону, пластику та старого мастила",
+				"Короткостроковий захист від іржі"
+			]
+		},
+		"ingredients": {
+			"en": "A mixture of aromatic organic acids, anionic surfactants <5%, amino alcohols, organic compounds of the lactam class.",
+			"ua": "Суміш ароматичних органічних кислот, аніонні ПАР<5%, аміноспирти, органічні сполуки класу лактамів."
+		},
+		"shelfLife": {
+			"en": "5 years. Date of manufacture on the label.",
+			"ua": "5 років. Дата виготовлення зазначена на етикетці."
+		},
+		"faq": {
+			"question_1": {
+				"en": {
+					"Q": "What is the difference in cleaners between 'Carbon Killer' and 'Liquidator'?",
+					"A": "The 'Carbon Killer' is recommended for extreme carbon fouling situations, such as AR bolt/bolt carriers, revolver cylinders, or neglected barrels. It specifically removes carbon fouling only. The 'Liquidator' removes both carbon and copper fouling and is recommended for most regular fouling situations."
+				},
+				"ua": {
+					"Q": "Яка різниця в очищувачах між 'Знищувач нагара'та 'Очисник ствола'?",
+					"A": "'Знищувач нагара' рекомендується для екстремальних ситуацій із забрудненням вуглецем, таких як затвір та затвірна рама AR, циліндри револьверів чи занедбані стволи. Він спеціально видаляє лише вуглецеві забруднення. 'Очисник ствола' видаляє як вуглецеві, так і мідні забруднення і рекомендується для більшості звичайних випадків забруднення."
+				}
+			},
+			"question_2": {
+				"en": {
+					"Q": "Does 'Carbon Killer' contain ammonia or any other barrel-damaging components?",
+					"A": "No, 'Carbon Killer' is 100% safe for your barrel."
+				},
+				"ua": {
+					"Q": "Чи містить 'Знищувач нагара' аміак або інші компоненти, що можуть пошкодити ствол?",
+					"A": "Ні, 'Знищувач нагара' на 100% безпечний для ствола."
+				}
+			},
+			"question_3": {
+				"en": {
+					"Q": "Can 'Carbon Killer' be used as a lubricant?",
+					"A": "No, 'Carbon Killer' is a cleaner, not a lubricant. Use DayPatron Neutral synthetic oil or Universal oil CLP 3 in 1 for superior lubrication."
+				},
+				"ua": {
+					"Q": "Чи можна використовувати 'Знищувач нагара'як мастило?",
+					"A": "Ні, 'Знищувач нагара'- це очисник, а не мастило. Використовуйте синтетичне масло DayPatron Нейтральне синтетичне мастило або Універсальне мастило CLP 3 в 1 для відмінного змащування."
+				}
+			},
+			"question_4": {
+				"en": {
+					"Q": "Can 'Carbon Killer' be used on the outside of my rifle barrel?",
+					"A": "Yes, 'Carbon Killer' can be safely used on the outside of a rifle barrel to remove carbon fouling. Once finished cleaning, be sure to wipe the cleaned area dry and apply DayPatron Rust Protection."
+				},
+				"ua": {
+					"Q": "Чи можна використовувати 'Знищувач нагара' із зовнішнього боку ствола моєї рушниці?",
+					"A": "Так, 'Знищувач нагара' можна безпечно використовувати на зовнішній стороні ствола рушниці для видалення вуглецевого забруднення. Після завершення очищення, обов'язково витріть очищену ділянку насухо та нанесіть DayPatron 'Захист від іржі та корозії'."
+				}
+			}
+		},
+		"category": "Cleaner",
+		"tradeMarkImage": "cleaner_tr.svg"
+	},
+	{
+		"id": 5,
+		"article": "DP400100, DP400250, DP400500",
+		"linkName": "copper-killer",
+		"name": {
+			"en": "Copper Killer",
+			"ua": "Знищувач міді"
+		},
+		"UTP": {
+			"en": "Removes сopper and its сompounds",
+			"ua": "Видаляє відкладення міді та її сполуки"
+		},
+		"specification": {
+			"en": {
+				"text": "Bottle type: Treated HDPE Plastic. Cap type: Twist Open/Close, Dispensing Cap with/ foam gasket seal. ",
+				"url": "Chemical_guide-en.png"
+			},
+			"ua": {
+				"text": "Тип пляшки: оброблений пластик HDPE. Тип ковпачка: Поворотне відкриття/закриття, ковпачок дозування з ущільнювачем із пінопласту.",
+				"url": "Chemical_guide-ua.png"
+			}
+		},
+		"description": {
+			"en": "Instantly reacts and removes copper deposits and its compounds after shooting, in all types of firearms, small and large caliber. Effectively neutralizes any corrosive residues, short-term preventing rust and corrosion. Safe for use in barrels made of stainless steel and other types. Does not react with metals used in firearm manufacturing. Unique formula that is non-flammable, contains no ammonia or odor, non-toxic, and biodegradable.",
+			"ua": "Mиттєво вступає в реакцію і видаляє відкладення міді та її сполуки після пострілу, у всіх типах зброї, малого та великого калібру. Ефективно нейтралізує будь-які корозійні залишки, короткостроково запобігаючи появі іржі та корозії. Безпечний для використання в стволах з нержавіючої сталі та інших типів. Не вступає в реакцію з металами з яких виготовлена зброя. Унікальна формула, яка не горить, без аміаку та запаху, нетоксична та біорозкладна."
+		},
+		"useTo": {
+			"en": "Unload the weapon. Run 3-4 patches soaked in the product Make 10-15 passes with a nylon brush moistened with the product and leave for 3-5 minutes. Run the wet patches again until they are clean. Then run 2-3 dry patches and lubricate with DayPatron Neutral Synthetic Oil. For long-term storage, apply DayPatron Rust Protection product.",
+			"ua": "Розрядіть зброю. Проженіть через ствол 3-4 патчі, змочених засобом 'Знищувач міді'. Зробіть 10-15 проходів шомполом з нейлоновим йоржиком, змоченим засобом і залиште подіяти на 3-5 хвилин. Проженіть знов через ствол змочені патчі, поки вони не виходитимуть чистими, якщо є забруднення на патчі буде кольорова індикація. Потім проженіть 2-3 сухих патчі і змастіть нейтральним мастилом DayPatron. Для тривалого зберігання, або за несприятливих погодних умов, застосовуйте консерваційне мастило DayPatron."
+		},
+		"image": [
+			{ "url": "Copper-Killer-100ml.png" },
+			{ "url": "Copper-Killer-100ml-side.png" },
+			{ "url": "Copper-Killer-100ml-back.png" },
+			{ "url": "Copper-Killer-250ml.png" },
+			{ "url": "Copper-Killer-250ml-back.png" },
+			{ "url": "Copper-Killer-500ml.png" },
+			{ "url": "Copper-Killer-500ml-back.png" },
+			{ "url": "clean-drop.png" },
+			{ "url": "throat.png" }
+		],
 
-    "volume": {
-      "en": ["100 ml", "250 ml", "500 ml", "1L", "5L", "10L", "20L"],
-      "ua": ["100 мл", "250 мл", "500 мл", "1Л", "5Л", "10Л", "20Л"]
-    },
-    "benefits": {
-      "en": [
-        "unique formula",
-        "odorless",
-        "non-toxic",
-        "biodegradable",
-        "contains no Ammonia",
-        "non-flammable",
-        "removes copper and its compounds",
-        "short term rust preventative"
-      ],
-      "ua": [
-        "унікальна формула",
-        "без запаху",
-        "нетоксичний",
-        "біорозкладний",
-        "не містить аміаку",
-        "негорючий",
-        "видаляє відкладення міді та її сполуки",
-        "короткостроковий захист від іржі"
-      ]
-    },
-    "ingredients": {
-      "en": "A mixture of aromatic organic acids, anionic surfactants <5%, organic compounds of the lactam class.",
-      "ua": "Суміш ароматичних органічних кислот, аніонні ПАВ<5%, органічні сполуки класу лактамів."
-    },
-    "shelfLife": {
-      "en": "5 years. Date of manufacture on the label.",
-      "ua": "5 років. Дата виготовлення зазначена на етикетці."
-    },
-    "faq": {
-      "question_1": {
-        "en": {
-          "Q": "Can I use Neutral synthetic oil for long term storage?",
-          "A": "No, Neutral Synthetic Oil is designed for use inside of the bore on moving part to reduce friction and wear. For long term storage, use DayPatron Rust Protection to protect against rust and corrosion for extended periods."
-        },
-        "ua": {
-          "Q": "чи можу я використовувати нейтральну синтетичну оливу для тривалого зберігання?",
-          "A": "Ні, нейтральне синтетичне масло призначене для використання всередині отвору на рухомій частині для зменшення тертя та зносу. Для тривалого зберігання використовуйте DayPatron Rust Protection для захисту від іржі та корозії протягом тривалого часу."
-        }
-      },
-      "question_2": {
-        "en": {
-          "Q": "Can I use Neutral synthetic oil for long term storage?",
-          "A": "No, Neutral Synthetic Oil is designed for use inside of the bore on moving part to reduce friction and wear. For long term storage, use DayPatron Rust Protection to protect against rust and corrosion for extended periods."
-        },
-        "ua": {
-          "Q": "чи можу я використовувати нейтральну синтетичну оливу для тривалого зберігання?",
-          "A": "Ні, нейтральне синтетичне масло призначене для використання всередині отвору на рухомій частині для зменшення тертя та зносу. Для тривалого зберігання використовуйте DayPatron Rust Protection для захисту від іржі та корозії протягом тривалого часу."
-        }
-      },
-      "question_3": {
-        "en": {
-          "Q": "Can I use Neutral synthetic oil for long term storage?",
-          "A": "No, Neutral Synthetic Oil is designed for use inside of the bore on moving part to reduce friction and wear. For long term storage, use DayPatron Rust Protection to protect against rust and corrosion for extended periods."
-        },
-        "ua": {
-          "Q": "чи можу я використовувати нейтральну синтетичну оливу для тривалого зберігання?",
-          "A": "Ні, нейтральне синтетичне масло призначене для використання всередині отвору на рухомій частині для зменшення тертя та зносу. Для тривалого зберігання використовуйте DayPatron Rust Protection для захисту від іржі та корозії протягом тривалого часу."
-        }
-      },
-      "question_4": {
-        "en": {
-          "Q": "Can I use Neutral synthetic oil for long term storage?",
-          "A": "No, Neutral Synthetic Oil is designed for use inside of the bore on moving part to reduce friction and wear. For long term storage, use DayPatron Rust Protection to protect against rust and corrosion for extended periods."
-        },
-        "ua": {
-          "Q": "чи можу я використовувати нейтральну синтетичну оливу для тривалого зберігання?",
-          "A": "Ні, нейтральне синтетичне масло призначене для використання всередині отвору на рухомій частині для зменшення тертя та зносу. Для тривалого зберігання використовуйте DayPatron Rust Protection для захисту від іржі та корозії протягом тривалого часу."
-        }
-      }
-    },
-    "category": "Cleaner",
-    "tradeMarkImage": "cleaner_tr.svg"
-  },
-  {
-    "id": 6,
-    "article": 780260,
-    "linkName": "liquidator",
-    "name": {
-      "en": "Liquidator",
-      "ua": "Очисник ствола"
-    },
-    "UTP": {
-      "en": "Removes All Types of Impurities in the Barrel",
-      "ua": "Видаляє Всі Типи Забруднень у Стволі"
-    },
-    "specification": {
-      "en": {
-        "text": "Rust protection, neutral acid-alkaline environment, lubrication",
-        "url": "Chemical_guide-en.png"
-      },
-      "ua": {
-        "text": "Захист від іржі та корозії, Нейтральне кислотно-лужне середовище, змащування",
-        "url": "Chemical_guide-ua.png"
-      }
-    },
-    "description": {
-      "en": "A powerful, high-performance solution that instantly reacts and removes all types of residues and deposits after firing: carbon, powder, copper, lead, and other residues, in all types of rifled and smoothbore firearms of small and large calibers. Effectively neutralizes all corrosive residues, providing short-term corrosion prevention. Safe for use in stainless steel and other types of barrels. Does not react with the metals from which the firearm is made. A unique formula that is non-flammable, ammonia-free, odorless, non-toxic, and biodegradable",
-      "ua": "Потужний, високопродуктивний засіб, миттєво вступає в реакцію і видаляє всі види забруднень та відкладень після пострілу: вуглецеві, порохові, мідні, свинцеві та інші залишки, у всіх видах нарізної та гладкоствольної зброї малого та великого калібру. Ефективно нейтралізує всі корозійні залишки, короткостроково запобігаючи появі корозії. Безпечний для використання в стволах з нержавіючої сталі та інших типів. Не вступає в реакцію з металами з яких виготовлена зброя. Унікальна формула, яка не горить, без аміаку та запаху, нетоксична та біорозкладна."
-    },
-    "useTo": {
-      "en": "IMPORTANT! The product is intended for use only inside the barrel channel. Safe for all types of steel. Non-flammable, ammonia-free, and odourless. Instructions for Use: Unload the weapon. Run 3-4 patches soaked in Liquidator. Make 10-15 passes with a brush soaked in Liquidator and leave for 3-5 minutes. Run the patches soaked in the product until they are clean. Run 2-3 dry patches and apply DayPatron Neutral Synthetic Oil. For long-term storage, use DayPatron Rust Protection.",
-      "ua": "ВАЖЛИВО! Засіб призначений лише для застосування всередині каналу ствола. Розрядіть зброю. Проженіть через ствол 3-4 патчі, змочених Liquidator. Зробіть 10-15 проходів шомполом з йоржиком, змоченим у Liquidator і залиште подіяти на 3-5 хвилин. Проженіть через ствол патчі змочені засобом, поки вони не виходитимуть чистими. Потім проженіть 2-3 сухих патчі і змастіть нейтральним мастилом DayPatron. Для тривалого зберігання або за несприятливих умов, застосовуйте консерваційне мастило з лінійки засобів DayPatron."
-    },
-    "image": [
-      { "url": "Liquidator-100ml.png" },
-      { "url": "Liquidator-100ml-side.png" },
-      { "url": "Liquidator-100ml-back.png" },
-      { "url": "Liquidator-250ml.png" },
-      { "url": "Liquidator-250ml-back.png" },
-      { "url": "Liquidator-500ml.png" },
-      { "url": "Liquidator-500ml-back.png" },
-      { "url": "oil-drop.png" },
-      { "url": "throat.png" }
-    ],
+		"volume": {
+			"en": ["100 ml", "250 ml", "500 ml", "1L", "5L", "10L", "20L"],
+			"ua": ["100 мл", "250 мл", "500 мл", "1Л", "5Л", "10Л", "20Л"]
+		},
+		"benefits": {
+			"en": [
+				"Unique formula",
+				"Odorless",
+				"Non-toxic",
+				"Biodegradable",
+				"Contains no Ammonia",
+				"Non-flammable",
+				"Removes copper and its compounds",
+				"Short term rust preventative"
+			],
+			"ua": [
+				"Унікальна формула",
+				"Без запаху",
+				"Нетоксичний",
+				"Біорозкладний",
+				"Не містить аміаку",
+				"Негорючий",
+				"Видаляє відкладення міді та її сполуки",
+				"Короткостроковий захист від іржі"
+			]
+		},
+		"ingredients": {
+			"en": "A mixture of aromatic organic acids, anionic surfactants <5%, organic compounds of the lactam class.",
+			"ua": "Суміш ароматичних органічних кислот, аніонні ПАВ<5%, органічні сполуки класу лактамів."
+		},
+		"shelfLife": {
+			"en": "5 years. Date of manufacture on the label.",
+			"ua": "5 років. Дата виготовлення зазначена на етикетці."
+		},
+		"faq": {
+			"question_1": {
+				"en": {
+					"Q": "What is the difference between 'Copper Killer' and 'Liquidator'?",
+					"A": "'Copper Killer' is recommended for extreme situations with copper fouling, specifically removing only copper deposits. 'Liquidator' removes both carbon and copper fouling and is recommended for most regular fouling situations."
+				},
+				"ua": {
+					"Q": "Яка різниця між 'Знищувач міді' та 'Очисник ствола'?",
+					"A": "'Знищувач міді' is recommended for extreme situations with copper deposits, specifically targeting only copper buildup. 'Очисник ствола' removes both carbon and copper deposits and ensures quick, easy, and thorough cleaning."
+				}
+			},
+			"question_2": {
+				"en": {
+					"Q": "Is it safe to leave 'Copper Killer' in the barrel overnight?",
+					"A": "Yes, 'Copper Killer' can be safely left in the barrel for an unlimited period."
+				},
+				"ua": {
+					"Q": "Чи безпечно залишати 'Знищувач міді' в стволі на ніч?",
+					"A": "Так, 'Знищувач міді' можна залишити в стволі безпечно на необмежений термін."
+				}
+			},
+			"question_3": {
+				"en": {
+					"Q": "Does 'Copper Killer' contain ammonia or any other components that could damage the barrel?",
+					"A": "No, 'Copper Killer' is 100% completely safe for the barrel."
+				},
+				"ua": {
+					"Q": "Чи містить 'Знищувач міді' аміак або інші компоненти, які можуть пошкодити ствол?",
+					"A": "Ні, 'Знищувач міді' - на 100% абсолютно безпечний для ствола."
+				}
+			},
+			"question_4": {
+				"en": {
+					"Q": "Can 'Copper Killer' be used as a lubricant?",
+					"A": "No, 'Copper Killer' is a cleaning agent, not a lubricant. Use CLP, Neutral Synthetic Oil or Rust Protection for excellent lubrication."
+				},
+				"ua": {
+					"Q": "Чи можна використовувати 'Знищувач міді' як змазку?",
+					"A": "Ні, 'Знищувач міді' - це засіб для очищення, а не змазка. Використовуйте мастило CLP, Neutral Synthetic Oil або Rust Protection для відмінного змащення."
+				}
+			}
+		},
+		"category": "Cleaner",
+		"tradeMarkImage": "cleaner_tr.svg"
+	},
+	{
+		"id": 6,
+		"article": "DP200100, DP200250, DP200500",
+		"linkName": "liquidator",
+		"name": {
+			"en": "Liquidator",
+			"ua": "Очисник ствола"
+		},
+		"UTP": {
+			"en": "Removes all types of impurities in the barrel",
+			"ua": "Видаляє всі типи забруднень у стволі"
+		},
+		"specification": {
+			"en": {
+				"text": "Bottle type: Treated HDPE Plastic. Cap type: Twist Open/Close, Dispensing Cap with/ foam gasket seal. ",
+				"url": "Chemical_guide-en.png"
+			},
+			"ua": {
+				"text": "Тип пляшки: оброблений пластик HDPE. Тип ковпачка: Поворотне відкриття/закриття, ковпачок дозування з ущільнювачем із пінопласту.",
+				"url": "Chemical_guide-ua.png"
+			}
+		},
+		"description": {
+			"en": "A powerful, high-performance agent that instantly reacts and removes all types of residues and deposits after shooting: carbon, powder, copper, lead, and other residues, in all types of small and large caliber rifled and smoothbore firearms. Effectively neutralizes all corrosive residues, short-term preventing corrosion. Safe for use in barrels made of stainless steel and other materials. Does not react with metals used in firearm manufacturing. Unique formula that is non-flammable, contains no ammonia or odor, non-toxic, and biodegradable.",
+			"ua": "Потужний, високопродуктивний засіб, миттєво вступає в реакцію і видаляє всі види забруднень та відкладень після пострілу: вуглецеві, порохові, мідні, свинцеві та інші залишки, у всіх видах нарізної та гладкоствольної зброї малого та великого калібру. Ефективно нейтралізує всі корозійні залишки, короткостроково запобігаючи появі корозії. Безпечний для використання в стволах з нержавіючої сталі та інших типів. Не вступає в реакцію з металами з яких виготовлена зброя. Унікальна формула, яка не горить, без аміаку та запаху, нетоксична та біорозкладна."
+		},
+		"useTo": {
+			"en": "Unload the firearm. Run 3-4 patches soaked in 'Liquidator' through the barrel. Make 10-15 passes with a bore brush soaked in 'Liquidator' and let it sit for 3-5 minutes. Run patches soaked in the solution through the barrel until they come out clean. Then run 2-3 dry patches and lubricate with DayPatron neutral oil. For long-term storage or in adverse conditions, use corrosion protection oil from the DayPatron product line.",
+			"ua": "Розрядіть зброю. Проженіть через ствол 3-4 патчі, змочених 'Очисник ствола'. Зробіть 10-15 проходів шомполом з йоржиком, змоченим у 'Очисник ствола' і залиште подіяти на 3-5 хвилин. Проженіть через ствол патчі змочені засобом, поки вони не виходитимуть чистими. Потім проженіть 2-3 сухих патчі і змастіть нейтральним мастилом DayPatron. Для тривалого зберігання або за несприятливих умов, застосовуйте консерваційне мастило з лінійки засобів DayPatron."
+		},
+		"image": [
+			{ "url": "Liquidator-100ml.png" },
+			{ "url": "Liquidator-100ml-side.png" },
+			{ "url": "Liquidator-100ml-back.png" },
+			{ "url": "Liquidator-250ml.png" },
+			{ "url": "Liquidator-250ml-back.png" },
+			{ "url": "Liquidator-500ml.png" },
+			{ "url": "Liquidator-500ml-back.png" },
+			{ "url": "clean-drop.png" },
+			{ "url": "throat.png" }
+		],
 
-    "volume": {
-      "en": ["100 ml", "250 ml", "500 ml", "1L", "5L", "10L", "20L"],
-      "ua": ["100 мл", "250 мл", "500 мл", "1Л", "5Л", "10Л", "20Л"]
-    },
-    "benefits": {
-      "en": [
-        "unique high-performance formula",
-        "odorless",
-        "non-toxic",
-        "biodegradable",
-        "contains no Ammonia",
-        "non-flammable",
-        "removes all types of impurities",
-        "short term rust preventative"
-      ],
-      "ua": [
-        "унікальна високопродуктивнa формула",
-        "без запаху",
-        "нетоксичний",
-        "біорозкладний",
-        "не містить аміаку",
-        "негорючий",
-        "видаляє всі види забруднень",
-        "короткостроковий захист від іржі"
-      ]
-    },
-    "ingredients": {
-      "en": "A mixture of aromatic organic acids, anionic surfactants <5%, organic compounds of the lactam class.",
-      "ua": "Суміш ароматичних органічних кислот, аніонні ПАВ<5%, органічні сполуки класу лактамів."
-    },
-    "shelfLife": {
-      "en": "5 years. Date of manufacture on the label.",
-      "ua": "5 років. Дата виготовлення зазначена на етикетці."
-    },
-    "faq": {
-      "question_1": {
-        "en": {
-          "Q": "Can I use Neutral synthetic oil for long term storage?",
-          "A": "No, Neutral Synthetic Oil is designed for use inside of the bore on moving part to reduce friction and wear. For long term storage, use DayPatron Rust Protection to protect against rust and corrosion for extended periods."
-        },
-        "ua": {
-          "Q": "чи можу я використовувати нейтральну синтетичну оливу для тривалого зберігання?",
-          "A": "Ні, нейтральне синтетичне масло призначене для використання всередині отвору на рухомій частині для зменшення тертя та зносу. Для тривалого зберігання використовуйте DayPatron Rust Protection для захисту від іржі та корозії протягом тривалого часу."
-        }
-      },
-      "question_2": {
-        "en": {
-          "Q": "Can I use Neutral synthetic oil for long term storage?",
-          "A": "No, Neutral Synthetic Oil is designed for use inside of the bore on moving part to reduce friction and wear. For long term storage, use DayPatron Rust Protection to protect against rust and corrosion for extended periods."
-        },
-        "ua": {
-          "Q": "чи можу я використовувати нейтральну синтетичну оливу для тривалого зберігання?",
-          "A": "Ні, нейтральне синтетичне масло призначене для використання всередині отвору на рухомій частині для зменшення тертя та зносу. Для тривалого зберігання використовуйте DayPatron Rust Protection для захисту від іржі та корозії протягом тривалого часу."
-        }
-      },
-      "question_3": {
-        "en": {
-          "Q": "Can I use Neutral synthetic oil for long term storage?",
-          "A": "No, Neutral Synthetic Oil is designed for use inside of the bore on moving part to reduce friction and wear. For long term storage, use DayPatron Rust Protection to protect against rust and corrosion for extended periods."
-        },
-        "ua": {
-          "Q": "чи можу я використовувати нейтральну синтетичну оливу для тривалого зберігання?",
-          "A": "Ні, нейтральне синтетичне масло призначене для використання всередині отвору на рухомій частині для зменшення тертя та зносу. Для тривалого зберігання використовуйте DayPatron Rust Protection для захисту від іржі та корозії протягом тривалого часу."
-        }
-      },
-      "question_4": {
-        "en": {
-          "Q": "Can I use Neutral synthetic oil for long term storage?",
-          "A": "No, Neutral Synthetic Oil is designed for use inside of the bore on moving part to reduce friction and wear. For long term storage, use DayPatron Rust Protection to protect against rust and corrosion for extended periods."
-        },
-        "ua": {
-          "Q": "чи можу я використовувати нейтральну синтетичну оливу для тривалого зберігання?",
-          "A": "Ні, нейтральне синтетичне масло призначене для використання всередині отвору на рухомій частині для зменшення тертя та зносу. Для тривалого зберігання використовуйте DayPatron Rust Protection для захисту від іржі та корозії протягом тривалого часу."
-        }
-      }
-    },
-    "category": "Lquidator",
-    "tradeMarkImage": "liquidator_tr.svg"
-  }
+		"volume": {
+			"en": ["100 ml", "250 ml", "500 ml", "1L", "5L", "10L", "20L"],
+			"ua": ["100 мл", "250 мл", "500 мл", "1Л", "5Л", "10Л", "20Л"]
+		},
+		"benefits": {
+			"en": [
+				"Unique high-performance formula",
+				"Odorless",
+				"Non-toxic",
+				"Biodegradable",
+				"Contains no Ammonia",
+				"Non-flammable",
+				"Removes all types of impurities",
+				"Short term rust preventative"
+			],
+			"ua": [
+				"Унікальна високопродуктивнa формула",
+				"Без запаху",
+				"Нетоксичний",
+				"Біорозкладний",
+				"Не містить аміаку",
+				"Негорючий",
+				"Видаляє всі види забруднень",
+				"Короткостроковий захист від іржі"
+			]
+		},
+		"ingredients": {
+			"en": "A mixture of aromatic organic acids, anionic surfactants <5%, organic compounds of the lactam class.",
+			"ua": "Суміш ароматичних органічних кислот, аніонні ПАВ<5%, органічні сполуки класу лактамів."
+		},
+		"shelfLife": {
+			"en": "5 years. Date of manufacture on the label.",
+			"ua": "5 років. Дата виготовлення зазначена на етикетці."
+		},
+		"faq": {
+			"question_1": {
+				"en": {
+					"Q": "What is the difference between 'Liquidator', 'Copper Killer', and 'Carbon Killer'?",
+					"A": "'Liquidator' effortlessly removes not only carbon residues but also copper deposits. It ensures quick, easy, and thorough cleaning. In cases of particularly heavy buildup, it is recommended to use specialized products like 'Copper Killer' (for removing copper deposits) and 'Carbon Killer' (for carbon buildup). These solutions are aimed at effectively removing specific types of contaminants."
+				},
+				"ua": {
+					"Q": "Яка різниця між 'Очисник ствола', 'Знищувач міді' та 'Знищувач нагара'?",
+					"A": "'Очисник ствола' з легкістю позбавляється не лише від вуглецевих, а й від мідних відкладень. Він гарантує швидке, просте та повне очищення. У випадках з особливо великим накопиченням відкладень рекомендується використовувати спеціальні засоби 'Знищувач міді' (для видалення мідних відкладень) та 'Знищувач нагара' (для вугільних відкладень). Ці розчини направлені на ефективне видалення конкретних видів забруднень."
+				}
+			},
+			"question_2": {
+				"en": {
+					"Q": "Is it safe to leave 'Liquidator' in the barrel overnight?",
+					"A": "Yes, it is safe to leave 'Liquidator' in the barrel indefinitely."
+				},
+				"ua": {
+					"Q": "Чи безпечно залишати 'Очисник ствола' в стволі на ніч?",
+					"A": "Так, 'Очисник ствола' можна залишити в стволі безпечно на необмежений."
+				}
+			},
+			"question_3": {
+				"en": {
+					"Q": "Does 'Liquidator' contain ammonia or any other components that could damage the barrel?",
+					"A": "No, 'Liquidator' is 100% safe for the barrel."
+				},
+
+				"ua": {
+					"Q": "Чи містить 'Очисник ствола' аміак або інші компоненти, які можуть пошкодити ствол?",
+					"A": "Ні, 'Очисник ствола' на 100% безпечний для ствола."
+				}
+			},
+			"question_4": {
+				"en": {
+					"Q": "Can 'Liquidator' be used on the outside of my rifle barrel?",
+					"A": "Yes, 'Liquidator' can be safely used on the outside of a rifle barrel. After finishing cleaning, be sure to wipe the cleaned area dry and apply oil for protect."
+				},
+				"ua": {
+					"Q": "Чи можна використовувати 'Очисник ствола' на зовнішній поверхні ствола?",
+					"A": "Так, 'Очисник ствола' можна безпечно використовувати на зовнішній поверхні ствола. Після завершення чищення обов'язково протріть очищену область сухо і нанесіть мастило для захисту."
+				}
+			}
+		},
+		"category": "Lquidator",
+		"tradeMarkImage": "liquidator_tr.svg"
+	}
 ]
