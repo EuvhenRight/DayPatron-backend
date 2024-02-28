@@ -91,6 +91,24 @@ app.get('/products/:lang/:id', async (req, res) => {
 	}
 })
 
+app.get('/', async (req, res) => {
+	try {
+		// Fetch metadata for the main page
+		const metaData = {
+			title: 'НАЙКРАЩІ ПРОДУКТИ ДЛЯ ДОГЛЯДУ ЗБРОЇ', // Dynamic title for the main page
+			description:
+				'DayPatron - засоби для догляду за зброєю в Україні, ідеальний супутник для тих, хто цінує досконалість та піклується про свою зброю', // Dynamic description
+			keywords: 'GUN CARE, GUN PROTECTION, CLP',
+			image:
+				'https://www.daypatron.com.ua/static/media/DayLogo.671b16c7b8f9b78cb5de3763dd57fbc3.svg',
+		}
+
+		res.json({ metaData })
+	} catch (err) {
+		res.status(500).json({ error: 'Internal server error' })
+	}
+})
+
 // Start the server
 app.listen(port, () => {
 	console.log(`Server is running on port ${port}`)
